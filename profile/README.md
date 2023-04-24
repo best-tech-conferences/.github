@@ -1,289 +1,904 @@
 
-<p align="center"><a href="https://github.com/sizovs/open-salary"><img src="https://i0.wp.com/texasmusicpickers.com/wp-content/uploads/2018/09/Tickets_PNG_Clipart_Image.png?fit=600%2C509&amp;ssl=1" alt="Open salaries logo" height="200"/></a></p><h1 align="center">Best tech conferences 2023/2024</h1><p align="center">A list of upcoming conferences sourced from <a href="https://dev.events">dev.events</a>.</p><p align="center"><a href="https://twitter.com/intent/tweet?text=https://dev.events"><img src="http://randojs.com/images/tweetShield.svg" alt="Tweet" height="20"/></a></p><br/><br/><h2>Top events / best-sellers</h2><table><tr><td><img src="https://images.weserv.nl/?url=https://dev.events/logos/rentea.jpg&amp;h=48&amp;w=48&amp;fit=cover&amp;mask=circle&amp;maxage=7d"/></td><td> <strong><a href="https://clean.re">Clean Architecture Masterclass</a></strong><br/><img src="https://img.shields.io/badge/stars-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen"/></td></tr><tr><td><img src="https://images.weserv.nl/?url=https://dev.events/logos/devternity-in.png&amp;h=48&amp;w=48&amp;fit=cover&amp;mask=circle&amp;maxage=7d"/></td><td> <strong><a href="https://devternity.com">DevTernity - the #1 developer conference</a></strong><br/><img src="https://img.shields.io/badge/stars-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen"/></td></tr><tr><td><img src="https://images.weserv.nl/?url=https://dev.events/logos/eduardsi.png&amp;h=48&amp;w=48&amp;fit=cover&amp;mask=circle&amp;maxage=7d"/></td><td> <strong><a href="https://principal.dev">The Principal Dev – Masterclass for Tech Leads</a></strong><br/><img src="https://img.shields.io/badge/stars-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen"/></td></tr></table><br/><br/><br/><br/><br/><table><thead><tr><th align="left">#</th><th align="left">Name</th><th align="left">Date</th><th align="left">Location</th></tr></thead><tbody><tr><td>1</td><td><a href="https://dev.events/conferences/net-developer-conference-cologne-10-2023" rel="noopener noreferrer nofollow">.NET Developer Conference</a></td><td>November 27 - December 1, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Cologne, Germany</td></tr><tr><td>2</td><td><a href="https://dev.events/conferences/net-developer-days-warsaw-9-2023" rel="noopener noreferrer nofollow">.NET DeveloperDays 2023</a></td><td>October 23-26, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/pl.svg" width="13px"/>&nbsp;
-Warsaw, Poland</td></tr><tr><td>3</td><td><a href="https://dev.events/conferences/abit-hannover-3-2023" rel="noopener noreferrer nofollow">ABIT 2023</a></td><td>April 25-27, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Hannover, Germany</td></tr><tr><td>4</td><td><a href="https://dev.events/conferences/ace-krakow-4-2023" rel="noopener noreferrer nofollow">ACE</a></td><td>May 18-19, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/pl.svg" width="13px"/>&nbsp;
-Kraków, Poland</td></tr><tr><td>5</td><td><a href="https://dev.events/conferences/afup-day-lyon-4-2023" rel="noopener noreferrer nofollow">AFUP Day 2023</a></td><td>May 12, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/fr.svg" width="13px"/>&nbsp;
-Lyon, France</td></tr><tr><td>6</td><td><a href="https://dev.events/conferences/ai-world-congress-london-5-2023" rel="noopener noreferrer nofollow">AI World Congress</a></td><td>June 7-8, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>7</td><td><a href="https://dev.events/conferences/api-conference-berlin-berlin-9-2023" rel="noopener noreferrer nofollow">API Conference Berlin</a></td><td>October 16-18, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Berlin, Germany</td></tr><tr><td>8</td><td><a href="https://dev.events/conferences/api-conference-london-3-2023" rel="noopener noreferrer nofollow">API conference</a></td><td>April 24-27, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>9</td><td><a href="https://dev.events/conferences/accento-karlsruhe-9-2023" rel="noopener noreferrer nofollow">Accento</a></td><td>October 24-25, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Karlsruhe, Germany</td></tr><tr><td>10</td><td><a href="https://dev.events/conferences/agile-coach-conference-haarlem-5-2023" rel="noopener noreferrer nofollow">Agile Coach Conference 2023</a></td><td>June 22, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/nl.svg" width="13px"/>&nbsp;
-Haarlem, Netherlands</td></tr><tr><td>11</td><td><a href="https://dev.events/conferences/agile-prague-prague-8-2023" rel="noopener noreferrer nofollow">Agile Prague 2023</a></td><td>September 18-19, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/cz.svg" width="13px"/>&nbsp;
-Prague, Czech Republic</td></tr><tr><td>12</td><td><a href="https://dev.events/conferences/agile-testing-days-potsdam-10-2023" rel="noopener noreferrer nofollow">Agile Testing Days 2023</a></td><td>November 13-16, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Potsdam, Germany</td></tr><tr><td>13</td><td><a href="https://dev.events/conferences/agile-tour-vienna-vienna-8-2023" rel="noopener noreferrer nofollow">Agile Tour Vienna</a></td><td>September 14, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/at.svg" width="13px"/>&nbsp;
-Vienna, Austria</td></tr><tr><td>14</td><td><a href="https://dev.events/conferences/agile-in-the-city-bristol-and-bath-bath-5-2023" rel="noopener noreferrer nofollow">Agile in the City: Bristol &amp; Bath</a></td><td>June 28-30, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-Bath, United Kingdom</td></tr><tr><td>15</td><td><a href="https://dev.events/conferences/agile-meets-architecture-berlin-9-2023" rel="noopener noreferrer nofollow">Agile meets Architecture</a></td><td>October 5-6, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Berlin, Germany</td></tr><tr><td>16</td><td><a href="https://dev.events/conferences/agile-on-the-beach-falmouth-6-2023" rel="noopener noreferrer nofollow">Agile on the Beach</a></td><td>July 6-7, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-Falmouth, United Kingdom</td></tr><tr><td>17</td><td><a href="https://dev.events/conferences/agile-td-open-air-cologne-5-2023" rel="noopener noreferrer nofollow">AgileTD Open Air</a></td><td>June 13-15, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Cologne, Germany</td></tr><tr><td>18</td><td><a href="https://dev.events/conferences/android-makers-by-droidcon-paris-3-2023" rel="noopener noreferrer nofollow">AndroidMakers by droidcon</a></td><td>April 27-28, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/fr.svg" width="13px"/>&nbsp;
-Paris, France</td></tr><tr><td>19</td><td><a href="https://dev.events/conferences/apidays-helsinki-and-north-helsinki-5-2023" rel="noopener noreferrer nofollow">Apidays Helsinki &amp; North</a></td><td>June 5-6, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/fi.svg" width="13px"/>&nbsp;
-Helsinki, Finland</td></tr><tr><td>20</td><td><a href="https://dev.events/conferences/apidays-london-london-8-2023" rel="noopener noreferrer nofollow">Apidays London</a></td><td>September 13-14, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>21</td><td><a href="https://dev.events/conferences/app-js-krakow-4-2023" rel="noopener noreferrer nofollow">App.js</a></td><td>May 10-12, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/pl.svg" width="13px"/>&nbsp;
-Kraków, Poland</td></tr><tr><td>22</td><td><a href="https://dev.events/conferences/appdevcon-amsterdam-4-2023" rel="noopener noreferrer nofollow">Appdevcon</a></td><td>May 9-12, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/nl.svg" width="13px"/>&nbsp;
-Amsterdam, Netherlands</td></tr><tr><td>23</td><td><a href="https://dev.events/conferences/arch-days-moscow-9-2023" rel="noopener noreferrer nofollow">ArchDays 2023</a></td><td>October 27, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ru.svg" width="13px"/>&nbsp;
-Moscow, Russia</td></tr><tr><td>24</td><td><a href="https://dev.events/conferences/azure-fest-nl-nieuwegein-8-2023" rel="noopener noreferrer nofollow">Azure Fest NL</a></td><td>September 13, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/nl.svg" width="13px"/>&nbsp;
-Nieuwegein, Netherlands</td></tr><tr><td>25</td><td><a href="https://dev.events/conferences/azure-lowlands-utrecht-5-2023" rel="noopener noreferrer nofollow">Azure Lowlands</a></td><td>June 29, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/nl.svg" width="13px"/>&nbsp;
-Utrecht, Netherlands</td></tr><tr><td>26</td><td><a href="https://dev.events/conferences/basta-mainz-8-2023" rel="noopener noreferrer nofollow">BASTA! 2023</a></td><td>September 25-29, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Mainz, Germany</td></tr><tr><td>27</td><td><a href="https://dev.events/conferences/block-3000-blockchain-battle-lisbon-6-2023" rel="noopener noreferrer nofollow">BLOCK3000: Blockchain Battle</a></td><td>July 6-7, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/pt.svg" width="13px"/>&nbsp;
-Lisbon, Portugal</td></tr><tr><td>28</td><td><a href="https://dev.events/conferences/b-sides-barcelona-barcelona-5-2023" rel="noopener noreferrer nofollow">BSides Barcelona</a></td><td>June 8-9, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/es.svg" width="13px"/>&nbsp;
-Barcelona, Spain</td></tr><tr><td>29</td><td><a href="https://dev.events/conferences/barcelona-dev-conference-barcelona-6-2023" rel="noopener noreferrer nofollow">Barcelona Dev Conference 2023</a></td><td>July 3-5, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/es.svg" width="13px"/>&nbsp;
-Barcelona, Spain</td></tr><tr><td>30</td><td><a href="https://dev.events/conferences/be-js-brussels-4-2023" rel="noopener noreferrer nofollow">BeJS</a></td><td>May 12, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/be.svg" width="13px"/>&nbsp;
-Brussels, Belgium</td></tr><tr><td>31</td><td><a href="https://dev.events/conferences/big-data-conference-europe-vilnius-10-2023" rel="noopener noreferrer nofollow">Big Data Conference Europe</a></td><td>November 21-24, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/lt.svg" width="13px"/>&nbsp;
-Vilnius, Lithuania</td></tr><tr><td>32</td><td><a href="https://dev.events/conferences/big-data-ldn-london-8-2023" rel="noopener noreferrer nofollow">Big Data LDN 2023</a></td><td>September 20-21, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>33</td><td><a href="https://dev.events/conferences/blockchain-oracle-summit-berlin-5-2023" rel="noopener noreferrer nofollow">Blockchain Oracle Summit 2023</a></td><td>June 20-22, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Berlin, Germany</td></tr><tr><td>34</td><td><a href="https://dev.events/conferences/brighton-ruby-brighton-5-2023" rel="noopener noreferrer nofollow">Brighton Ruby</a></td><td>June 30, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-Brighton, United Kingdom</td></tr><tr><td>35</td><td><a href="https://dev.events/conferences/build-stuff-vilnius-10-2023" rel="noopener noreferrer nofollow">Build Stuff</a></td><td>November 15-17, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/lt.svg" width="13px"/>&nbsp;
-Vilnius, Lithuania</td></tr><tr><td>36</td><td><a href="https://dev.events/conferences/building-io-t-munich-3-2023" rel="noopener noreferrer nofollow">Building IoT</a></td><td>April 26-27, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Munich, Germany</td></tr><tr><td>37</td><td><a href="https://dev.events/conferences/c-russia-moscow-4-2023" rel="noopener noreferrer nofollow">C++ Russia</a></td><td>May 23-24, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ru.svg" width="13px"/>&nbsp;
-Moscow, Russia</td></tr><tr><td>38</td><td><a href="https://dev.events/conferences/c-on-sea-folkestone-5-2023" rel="noopener noreferrer nofollow">C++ on Sea</a></td><td>June 28-30, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-Folkestone, United Kingdom</td></tr><tr><td>39</td><td><a href="https://dev.events/conferences/con-fidence-krakow-5-2023" rel="noopener noreferrer nofollow">CONFidence</a></td><td>June 5-6, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/pl.svg" width="13px"/>&nbsp;
-Krakow, Poland</td></tr><tr><td>40</td><td><a href="https://dev.events/conferences/css-day-amsterdam-5-2023" rel="noopener noreferrer nofollow">CSS Day</a></td><td>June 8-9, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/nl.svg" width="13px"/>&nbsp;
-Amsterdam, Netherlands</td></tr><tr><td>41</td><td><a href="https://dev.events/conferences/camunda-community-summit-berlin-4-2023" rel="noopener noreferrer nofollow">Camunda Community Summit</a></td><td>May 10-11, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Berlin, Germany</td></tr><tr><td>42</td><td><a href="https://dev.events/conferences/cloud-foundry-day-heidelberg-5-2023" rel="noopener noreferrer nofollow">Cloud Foundry Day</a></td><td>June 21, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Heidelberg , Germany</td></tr><tr><td>43</td><td><a href="https://dev.events/conferences/code-beam-europe-berlin-9-2023" rel="noopener noreferrer nofollow">Code BEAM Europe</a></td><td>October 17-20, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Berlin, Germany</td></tr><tr><td>44</td><td><a href="https://dev.events/conferences/code-beam-lite-stockholm-stockholm-4-2023" rel="noopener noreferrer nofollow">Code BEAM Lite Stockholm</a></td><td>May 12, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/se.svg" width="13px"/>&nbsp;
-Stockholm, Sweden</td></tr><tr><td>45</td><td><a href="https://dev.events/conferences/code-crafts-vienna-5-2023" rel="noopener noreferrer nofollow">Code Crafts</a></td><td>June 1, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/at.svg" width="13px"/>&nbsp;
-Vienna, Austria</td></tr><tr><td>46</td><td><a href="https://dev.events/conferences/codegarden-odense-5-2023" rel="noopener noreferrer nofollow">Codegarden</a></td><td>June 14-16, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/dk.svg" width="13px"/>&nbsp;
-Odense, Denmark</td></tr><tr><td>47</td><td><a href="https://dev.events/conferences/container-days-hamburg-8-2023" rel="noopener noreferrer nofollow">ContainerDays 2023</a></td><td>September 11-13, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Hamburg, Germany</td></tr><tr><td>48</td><td><a href="https://dev.events/conferences/conversational-ai-summit-london-4-2023" rel="noopener noreferrer nofollow">Conversational AI Summit</a></td><td>May 16-17, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>49</td><td><a href="https://dev.events/conferences/craft-conference-budapest-4-2023" rel="noopener noreferrer nofollow">Craft Conference</a></td><td>May 18-19, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/hu.svg" width="13px"/>&nbsp;
-Budapest, Hungary</td></tr><tr><td>50</td><td><a href="https://dev.events/conferences/cyber-security-nordic-helsinki-10-2023" rel="noopener noreferrer nofollow">Cyber Security Nordic</a></td><td>November 7-8, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/fi.svg" width="13px"/>&nbsp;
-Helsinki, Finland</td></tr><tr><td>51</td><td><a href="https://dev.events/conferences/cyber-security-prague-9-2023" rel="noopener noreferrer nofollow">Cyber ​​Security 2023</a></td><td>October 19, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/cz.svg" width="13px"/>&nbsp;
-Prague, Czech Republic</td></tr><tr><td>52</td><td><a href="https://dev.events/conferences/cybersecurity-expo-london-london-10-2023" rel="noopener noreferrer nofollow">Cybersecurity Expo - London</a></td><td>November 2, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>53</td><td><a href="https://dev.events/conferences/cybersecurity-expo-manchester-manchester-6-2023" rel="noopener noreferrer nofollow">Cybersecurity Expo - Manchester</a></td><td>July 13, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-Manchester, United Kingdom</td></tr><tr><td>54</td><td><a href="https://dev.events/conferences/data-scotland-edinburgh-8-2023" rel="noopener noreferrer nofollow">DATA: Scotland 2023</a></td><td>September 8, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-Edinburgh, United Kingdom</td></tr><tr><td>55</td><td><a href="https://dev.events/conferences/ddd-east-midlands-nottingham-9-2023" rel="noopener noreferrer nofollow">DDD East Midlands</a></td><td>October 7, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-Nottingham, United Kingdom</td></tr><tr><td>56</td><td><a href="https://dev.events/conferences/ddx-munich-4-2023" rel="noopener noreferrer nofollow">DDX 2023</a></td><td>May 6, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Munich, Germany</td></tr><tr><td>57</td><td><a href="https://dev.events/conferences/dev-challenge-accepted-sofia-8-2023" rel="noopener noreferrer nofollow">DEV: Challenge Accepted</a></td><td>September 30, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/bg.svg" width="13px"/>&nbsp;
-Sofia, Bulgaria</td></tr><tr><td>58</td><td><a href="https://dev.events/conferences/data-innovation-summit-hybrid-stockholm-4-2023" rel="noopener noreferrer nofollow">Data Innovation Summit Hybrid</a></td><td>May 11-12, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/se.svg" width="13px"/>&nbsp;
-Stockholm, Sweden</td></tr><tr><td>59</td><td><a href="https://dev.events/conferences/data-saturday-croatia-zagreb-5-2023" rel="noopener noreferrer nofollow">Data Saturday Croatia</a></td><td>June 3, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/hr.svg" width="13px"/>&nbsp;
-Zagreb, Croatia</td></tr><tr><td>60</td><td><a href="https://dev.events/conferences/data-saturday-rheinland-bonn-5-2023" rel="noopener noreferrer nofollow">Data Saturday Rheinland</a></td><td>June 17, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Bonn, Germany</td></tr><tr><td>61</td><td><a href="https://dev.events/conferences/data-saturday-sofia-sofia-9-2023" rel="noopener noreferrer nofollow">Data Saturday Sofia 2023</a></td><td>October 7, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/bg.svg" width="13px"/>&nbsp;
-Sofia, Bulgaria</td></tr><tr><td>62</td><td><a href="https://dev.events/conferences/data-saturday-stockholm-stockholm-4-2023" rel="noopener noreferrer nofollow">Data Saturday Stockholm 2023</a></td><td>May 13, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/se.svg" width="13px"/>&nbsp;
-Stockholm, Sweden</td></tr><tr><td>63</td><td><a href="https://dev.events/conferences/debug-zagreb-5-2023" rel="noopener noreferrer nofollow">Debug</a></td><td>June 15-16, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/hr.svg" width="13px"/>&nbsp;
-Zagreb, Croatia</td></tr><tr><td>64</td><td><a href="https://dev.events/conferences/decentralized-athens-10-2023" rel="noopener noreferrer nofollow">Decentralized</a></td><td>November 1-3, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gr.svg" width="13px"/>&nbsp;
-Athens, Greece</td></tr><tr><td>65</td><td><a href="https://dev.events/conferences/deep-conference-petrcane-9-2023" rel="noopener noreferrer nofollow">Deep Conference</a></td><td>October 24-25, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/hr.svg" width="13px"/>&nbsp;
-Petrčane, Croatia</td></tr><tr><td>66</td><td><a href="https://dev.events/conferences/deep-sec-vienna-10-2023" rel="noopener noreferrer nofollow">DeepSec</a></td><td>November 14-17, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/at.svg" width="13px"/>&nbsp;
-Vienna, Austria</td></tr><tr><td>67</td><td><a href="https://dev.events/conferences/design-it-build-it-edinburgh-4-2023" rel="noopener noreferrer nofollow">Design It. Build It. 2023</a></td><td>May 11-12, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-Edinburgh, United Kingdom</td></tr><tr><td>68</td><td><a href="https://dev.events/conferences/dev-conf-cz-brno-5-2023" rel="noopener noreferrer nofollow">DevConf.CZ</a></td><td>June 16-18, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/cz.svg" width="13px"/>&nbsp;
-Brno, Czech Republic</td></tr><tr><td>69</td><td><a href="https://dev.events/conferences/dev-days-europe-vilnius-4-2023" rel="noopener noreferrer nofollow">DevDays Europe</a></td><td>May 25-26, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/lt.svg" width="13px"/>&nbsp;
-Vilnius, Lithuania</td></tr><tr><td>70</td><td><a href="https://dev.events/conferences/dev-fest-nantes-nantes-9-2023" rel="noopener noreferrer nofollow">DevFest Nantes</a></td><td>October 19, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/fr.svg" width="13px"/>&nbsp;
-Nantes, France</td></tr><tr><td>71</td><td><a href="https://dev.events/conferences/dev-ops-barcelona-barcelona-10-2023" rel="noopener noreferrer nofollow">DevOps Barcelona</a></td><td>November 9-10, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/es.svg" width="13px"/>&nbsp;
-Barcelona, Spain</td></tr><tr><td>72</td><td><a href="https://dev.events/conferences/dev-ops-enterprise-summit-amsterdam-4-2023" rel="noopener noreferrer nofollow">DevOps Enterprise Summit</a></td><td>May 16-17, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/nl.svg" width="13px"/>&nbsp;
-Amsterdam, Netherlands</td></tr><tr><td>73</td><td><a href="https://dev.events/conferences/dev-ops-con-berlin-berlin-5-2023" rel="noopener noreferrer nofollow">DevOpsCon Berlin 2023</a></td><td>June 12-15, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Berlin, Germany</td></tr><tr><td>74</td><td><a href="https://dev.events/conferences/dev-sum-stockholm-4-2023" rel="noopener noreferrer nofollow">DevSum</a></td><td>May 25-26, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/se.svg" width="13px"/>&nbsp;
-Stockholm, Sweden</td></tr><tr><td>75</td><td><a href="https://dev.events/conferences/dev-talks-bucharest-5-2023" rel="noopener noreferrer nofollow">DevTalks 2023</a></td><td>June 21-22, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ro.svg" width="13px"/>&nbsp;
-Bucharest, Romania</td></tr><tr><td>76</td><td><a href="https://dev.events/conferences/devcom-cologne-7-2023" rel="noopener noreferrer nofollow">Devcom 2023</a></td><td>August 20-25, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Cologne, Germany</td></tr><tr><td>77</td><td><a href="https://dev.events/conferences/devops-con-london-3-2023" rel="noopener noreferrer nofollow">DevopsCon</a></td><td>April 24-27, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>78</td><td><a href="https://dev.events/conferences/devopsdays-copenhagen-copenhagen-4-2023" rel="noopener noreferrer nofollow">Devopsdays Copenhagen</a></td><td>May 2-3, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/dk.svg" width="13px"/>&nbsp;
-Copenhagen, Denmark</td></tr><tr><td>79</td><td><a href="https://dev.events/conferences/devopsdays-prague-prague-4-2023" rel="noopener noreferrer nofollow">Devopsdays Prague</a></td><td>May 22-23, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/cz.svg" width="13px"/>&nbsp;
-Prague, Czech Republic</td></tr><tr><td>80</td><td><a href="https://dev.events/conferences/devoxx-greece-athens-4-2023" rel="noopener noreferrer nofollow">Devoxx Greece 2023</a></td><td>May 4-6, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gr.svg" width="13px"/>&nbsp;
-Athens, Greece</td></tr><tr><td>81</td><td><a href="https://dev.events/conferences/devoxx-poland-krakow-4-2023" rel="noopener noreferrer nofollow">Devoxx Poland</a></td><td>May 31 - June 2, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/pl.svg" width="13px"/>&nbsp;
-Krakow, Poland</td></tr><tr><td>82</td><td><a href="https://dev.events/conferences/devoxx-uk-london-4-2023" rel="noopener noreferrer nofollow">Devoxx UK</a></td><td>May 10-12, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>83</td><td><a href="https://dev.events/conferences/digital-dragons-krakow-4-2023" rel="noopener noreferrer nofollow">Digital Dragons</a></td><td>May 15-16, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/pl.svg" width="13px"/>&nbsp;
-Krakow, Poland</td></tr><tr><td>84</td><td><a href="https://dev.events/conferences/digital-lab-in-labin-8-2023" rel="noopener noreferrer nofollow">Digital Labin</a></td><td>September 22-23, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/hr.svg" width="13px"/>&nbsp;
-Labin, Croatia</td></tr><tr><td>85</td><td><a href="https://dev.events/conferences/digital-leadership-forum-vienna-8-2023" rel="noopener noreferrer nofollow">Digital Leadership Forum</a></td><td>September 18-19, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/at.svg" width="13px"/>&nbsp;
-Vienna, Austria</td></tr><tr><td>86</td><td><a href="https://dev.events/conferences/droidcon-berlin-berlin-6-2023" rel="noopener noreferrer nofollow">Droidcon Berlin</a></td><td>July 5-7, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Berlin, Germany</td></tr><tr><td>87</td><td><a href="https://dev.events/conferences/droidcon-london-london-9-2023" rel="noopener noreferrer nofollow">Droidcon London</a></td><td>October 26-27, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>88</td><td><a href="https://dev.events/conferences/drupal-camp-finland-helsinki-3-2023" rel="noopener noreferrer nofollow">DrupalCamp Finland</a></td><td>April 28, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/fi.svg" width="13px"/>&nbsp;
-Helsinki, Finland</td></tr><tr><td>89</td><td><a href="https://dev.events/conferences/drupal-camp-poland-wroclaw-4-2023" rel="noopener noreferrer nofollow">DrupalCamp Poland</a></td><td>May 13-14, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/pl.svg" width="13px"/>&nbsp;
-Wrocław, Poland</td></tr><tr><td>90</td><td><a href="https://dev.events/conferences/drupal-camp-ruhr-essen-4-2023" rel="noopener noreferrer nofollow">DrupalCamp Ruhr</a></td><td>May 12-13, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Essen, Germany</td></tr><tr><td>91</td><td><a href="https://dev.events/conferences/drupal-camping-wolfsburg-wolfsburg-5-2023" rel="noopener noreferrer nofollow">DrupalCamping Wolfsburg</a></td><td>June 15-18, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Wolfsburg, Germany</td></tr><tr><td>92</td><td><a href="https://dev.events/conferences/drupal-con-lille-lille-9-2023" rel="noopener noreferrer nofollow">DrupalCon Lille 2023</a></td><td>October 17-20, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/fr.svg" width="13px"/>&nbsp;
-Lille, France</td></tr><tr><td>93</td><td><a href="https://dev.events/conferences/drupaljam-utrecht-5-2023" rel="noopener noreferrer nofollow">Drupaljam 2023</a></td><td>June 1, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/nl.svg" width="13px"/>&nbsp;
-Utrecht, Netherlands</td></tr><tr><td>94</td><td><a href="https://dev.events/conferences/dublin-tech-summit-dublin-4-2023" rel="noopener noreferrer nofollow">Dublin Tech Summit</a></td><td>May 31 - June 1, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ie.svg" width="13px"/>&nbsp;
-Dublin, Ireland</td></tr><tr><td>95</td><td><a href="https://dev.events/conferences/evolve-summit-brno-10-2023" rel="noopener noreferrer nofollow">EVOLVE! Summit</a></td><td>November 2, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/cz.svg" width="13px"/>&nbsp;
-Brno, Czech Republic</td></tr><tr><td>96</td><td><a href="https://dev.events/conferences/euro-python-prague-6-2023" rel="noopener noreferrer nofollow">EuroPython</a></td><td>July 17-23, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/cz.svg" width="13px"/>&nbsp;
-Prague, Czech Republic</td></tr><tr><td>97</td><td><a href="https://dev.events/conferences/euro-rust-berlin-berlin-9-2023" rel="noopener noreferrer nofollow">EuroRust 2023 Berlin</a></td><td>October 12-13, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Berlin, Germany</td></tr><tr><td>98</td><td><a href="https://dev.events/conferences/euro-rust-brussels-brussels-9-2023" rel="noopener noreferrer nofollow">EuroRust Brussels</a></td><td>October 12-13, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/be.svg" width="13px"/>&nbsp;
-Brussels, Belgium</td></tr><tr><td>99</td><td><a href="https://dev.events/conferences/euro-star-antwerp-5-2023" rel="noopener noreferrer nofollow">EuroSTAR 2023</a></td><td>June 13-16, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/be.svg" width="13px"/>&nbsp;
-Antwerp, Belgium</td></tr><tr><td>100</td><td><a href="https://dev.events/conferences/euro-sci-py-basel-7-2023" rel="noopener noreferrer nofollow">EuroSciPy 2023</a></td><td>August 14-18, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ch.svg" width="13px"/>&nbsp;
-Basel, Switzerland</td></tr><tr><td>101</td><td><a href="https://dev.events/conferences/euruko-vilnius-8-2023" rel="noopener noreferrer nofollow">Euruko 2023</a></td><td>September 21-23, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/lt.svg" width="13px"/>&nbsp;
-Vilnius, Lithuania</td></tr><tr><td>102</td><td><a href="https://dev.events/conferences/experts-live-europe-prague-8-2023" rel="noopener noreferrer nofollow">Experts Live Europe</a></td><td>September 18-20, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/cz.svg" width="13px"/>&nbsp;
-Prague, Czech Republic</td></tr><tr><td>103</td><td><a href="https://dev.events/conferences/finn-sec-helsinki-9-2023" rel="noopener noreferrer nofollow">FinnSec</a></td><td>October 11-12, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/fi.svg" width="13px"/>&nbsp;
-Helsinki, Finland</td></tr><tr><td>104</td><td><a href="https://dev.events/conferences/flock-cork-cork-7-2023" rel="noopener noreferrer nofollow">Flock Cork</a></td><td>August 2-4, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ie.svg" width="13px"/>&nbsp;
-Cork, Ireland</td></tr><tr><td>105</td><td><a href="https://dev.events/conferences/friendly-rb-bucharest-8-2023" rel="noopener noreferrer nofollow">Friendly.rb 2023</a></td><td>September 27-28, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ro.svg" width="13px"/>&nbsp;
-Bucharest, Romania</td></tr><tr><td>106</td><td><a href="https://dev.events/conferences/future-data-summit-helsinki-9-2023" rel="noopener noreferrer nofollow">Future Data Summit</a></td><td>October 11, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/fi.svg" width="13px"/>&nbsp;
-Helsinki, Finland</td></tr><tr><td>107</td><td><a href="https://dev.events/conferences/future-frontend-helsinki-5-2023" rel="noopener noreferrer nofollow">Future Frontend</a></td><td>June 6-9, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/fi.svg" width="13px"/>&nbsp;
-Helsinki, Finland</td></tr><tr><td>108</td><td><a href="https://dev.events/conferences/gartner-reimagine-hr-conference-london-8-2023" rel="noopener noreferrer nofollow">Gartner ReimagineHR Conference</a></td><td>September 11-12, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>109</td><td><a href="https://dev.events/conferences/german-testing-day-frankfurt-am-main-4-2023" rel="noopener noreferrer nofollow">German Testing Day 2023</a></td><td>May 23-24, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Frankfurt am Main, Germany</td></tr><tr><td>110</td><td><a href="https://dev.events/conferences/global-software-architecture-summit-barcelona-9-2023" rel="noopener noreferrer nofollow">Global Software Architecture Summit</a></td><td>October 9-11, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/es.svg" width="13px"/>&nbsp;
-Barcelona, Spain</td></tr><tr><td>111</td><td><a href="https://dev.events/conferences/go-lab-florence-10-2023" rel="noopener noreferrer nofollow">GoLab</a></td><td>November 19-21, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/it.svg" width="13px"/>&nbsp;
-Florence, Italy</td></tr><tr><td>112</td><td><a href="https://dev.events/conferences/gopher-con-europe-berlin-5-2023" rel="noopener noreferrer nofollow">GopherCon Europe 2023</a></td><td>June 26-29, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Berlin, Germany</td></tr><tr><td>113</td><td><a href="https://dev.events/conferences/gopher-con-ireland-dublin-10-2023" rel="noopener noreferrer nofollow">GopherCon Ireland</a></td><td>November 2, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ie.svg" width="13px"/>&nbsp;
-Dublin, Ireland</td></tr><tr><td>114</td><td><a href="https://dev.events/conferences/hr-technologies-uk-london-4-2023" rel="noopener noreferrer nofollow">HR Technologies UK</a></td><td>May 3-4, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>115</td><td><a href="https://dev.events/conferences/hr-vision-amsterdam-amsterdam-4-2023" rel="noopener noreferrer nofollow">HR Vision Amsterdam</a></td><td>May 10-11, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/nl.svg" width="13px"/>&nbsp;
-Amsterdam, Netherlands</td></tr><tr><td>116</td><td><a href="https://dev.events/conferences/hr-vision-london-london-9-2023" rel="noopener noreferrer nofollow">HR Vision London</a></td><td>October 4-5, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>117</td><td><a href="https://dev.events/conferences/h-rcore-nordic-copenhagen-4-2023" rel="noopener noreferrer nofollow">HRcoreNordic</a></td><td>May 24-25, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/dk.svg" width="13px"/>&nbsp;
-Copenhagen, Denmark</td></tr><tr><td>118</td><td><a href="https://dev.events/conferences/halfstack-vienna-vienna-8-2023" rel="noopener noreferrer nofollow">Halfstack Vienna</a></td><td>September 15, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/at.svg" width="13px"/>&nbsp;
-Vienna, Austria</td></tr><tr><td>119</td><td><a href="https://dev.events/conferences/hatch-conference-berlin-9-2023" rel="noopener noreferrer nofollow">Hatch Conference</a></td><td>October 5-6, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Berlin, Germany</td></tr><tr><td>120</td><td><a href="https://dev.events/conferences/helvetic-ruby-bern-10-2023" rel="noopener noreferrer nofollow">Helvetic Ruby 2023</a></td><td>November 24, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ch.svg" width="13px"/>&nbsp;
-Bern, Switzerland</td></tr><tr><td>121</td><td><a href="https://dev.events/conferences/herbstcampus-nuremberg-8-2023" rel="noopener noreferrer nofollow">Herbstcampus</a></td><td>September 5-7, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Nuremberg, Germany</td></tr><tr><td>122</td><td><a href="https://dev.events/conferences/high-load-belgrade-6-2023" rel="noopener noreferrer nofollow">HighLoad++</a></td><td>July 4, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/rs.svg" width="13px"/>&nbsp;
-Belgrade, Serbia</td></tr><tr><td>123</td><td><a href="https://dev.events/conferences/holy-js-moscow-4-2023" rel="noopener noreferrer nofollow">HolyJS</a></td><td>May 21-22, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ru.svg" width="13px"/>&nbsp;
-Moscow, Russia</td></tr><tr><td>124</td><td><a href="https://dev.events/conferences/ipc-munich-munich-9-2023" rel="noopener noreferrer nofollow">IPC Munich</a></td><td>October 23-27, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Munich, Germany</td></tr><tr><td>125</td><td><a href="https://dev.events/conferences/it-secx-st-poelten-9-2023" rel="noopener noreferrer nofollow">IT-SECX</a></td><td>October 13, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/at.svg" width="13px"/>&nbsp;
-St. Pölten, Austria</td></tr><tr><td>126</td><td><a href="https://dev.events/conferences/it-tage-frankfurt-am-main-11-2023" rel="noopener noreferrer nofollow">IT-Tage 2023</a></td><td>December 11-14, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Frankfurt am Main, Germany</td></tr><tr><td>127</td><td><a href="https://dev.events/conferences/infobip-shift-zadar-8-2023" rel="noopener noreferrer nofollow">Infobip Shift 2023</a></td><td>September 18-19, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/hr.svg" width="13px"/>&nbsp;
-Zadar, Croatia</td></tr><tr><td>128</td><td><a href="https://dev.events/conferences/integrate-london-5-2023" rel="noopener noreferrer nofollow">Integrate 2023</a></td><td>June 5-7, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>129</td><td><a href="https://dev.events/conferences/international-java-script-conference-london-3-2023" rel="noopener noreferrer nofollow">International JavaScript Conference</a></td><td>April 24-27, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>130</td><td><a href="https://dev.events/conferences/international-javascript-conference-munich-munich-9-2023" rel="noopener noreferrer nofollow">International Javascript Conference Munich</a></td><td>October 23-27, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Munich, Germany</td></tr><tr><td>131</td><td><a href="https://dev.events/conferences/international-php-conference-berlin-4-2023" rel="noopener noreferrer nofollow">International PHP Conference</a></td><td>May 22-26, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Berlin, Germany</td></tr><tr><td>132</td><td><a href="https://dev.events/conferences/intersection-conference-turin-9-2023" rel="noopener noreferrer nofollow">Intersection Conference</a></td><td>October 9-10, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/it.svg" width="13px"/>&nbsp;
-Turin, Italy</td></tr><tr><td>133</td><td><a href="https://dev.events/conferences/io-t-tech-expo-europe-amsterdam-8-2023" rel="noopener noreferrer nofollow">IoT Tech Expo Europe</a></td><td>September 26-27, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/nl.svg" width="13px"/>&nbsp;
-Amsterdam, Netherlands</td></tr><tr><td>134</td><td><a href="https://dev.events/conferences/io-t-week-berlin-5-2023" rel="noopener noreferrer nofollow">IoT Week 2023</a></td><td>June 19-22, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Berlin, Germany</td></tr><tr><td>135</td><td><a href="https://dev.events/conferences/j-on-the-beach-malaga-3-2023" rel="noopener noreferrer nofollow">J On The Beach 2023</a></td><td>May 10-12, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/es.svg" width="13px"/>&nbsp;
-Malaga, Spain</td></tr><tr><td>136</td><td><a href="https://dev.events/conferences/j-spring-utrecht-5-2023" rel="noopener noreferrer nofollow">J-Spring 2023</a></td><td>June 21, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/nl.svg" width="13px"/>&nbsp;
-Utrecht, Netherlands</td></tr><tr><td>137</td><td><a href="https://dev.events/conferences/jax-mainz-4-2023" rel="noopener noreferrer nofollow">JAX 2023</a></td><td>May 8-12, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Mainz, Germany</td></tr><tr><td>138</td><td><a href="https://dev.events/conferences/jax-london-london-9-2023" rel="noopener noreferrer nofollow">JAX London 2023</a></td><td>October 2-5, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>139</td><td><a href="https://dev.events/conferences/j-alba-edinburgh-4-2023" rel="noopener noreferrer nofollow">JAlba</a></td><td>May 4, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-Edinburgh, United Kingdom</td></tr><tr><td>140</td><td><a href="https://dev.events/conferences/jcon-europe-cologne-5-2023" rel="noopener noreferrer nofollow">JCON Europe 2023</a></td><td>June 20-23, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Cologne, Germany</td></tr><tr><td>141</td><td><a href="https://dev.events/conferences/jcon-open-blend-slovenia-portoroz-5-2023" rel="noopener noreferrer nofollow">JCON OpenBlend Slovenia 2023</a></td><td>June 1-2, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/si.svg" width="13px"/>&nbsp;
-Portorož, Slovenia</td></tr><tr><td>142</td><td><a href="https://dev.events/conferences/j-crete-crete-6-2023" rel="noopener noreferrer nofollow">JCrete</a></td><td>July 11-16, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gr.svg" width="13px"/>&nbsp;
-Crete, Greece</td></tr><tr><td>143</td><td><a href="https://dev.events/conferences/j-nation-coimbra-5-2023" rel="noopener noreferrer nofollow">JNation</a></td><td>June 6-7, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/pt.svg" width="13px"/>&nbsp;
-Coimbra, Portugal</td></tr><tr><td>144</td><td><a href="https://dev.events/conferences/js-day-ie-dublin-8-2023" rel="noopener noreferrer nofollow">JSDayIE 2023</a></td><td>September 26, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ie.svg" width="13px"/>&nbsp;
-Dublin, Ireland</td></tr><tr><td>145</td><td><a href="https://dev.events/conferences/js-heroes-cluj-napoca-4-2023" rel="noopener noreferrer nofollow">JSHeroes</a></td><td>May 18-19, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ro.svg" width="13px"/>&nbsp;
-Cluj-Napoca, Romania</td></tr><tr><td>146</td><td><a href="https://dev.events/conferences/js-nation-hybrid-amsterdam-5-2023" rel="noopener noreferrer nofollow">JSNation Hybrid</a></td><td>June 1-5, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/nl.svg" width="13px"/>&nbsp;
-Amsterdam, Netherlands</td></tr><tr><td>147</td><td><a href="https://dev.events/conferences/jug-saxony-day-radebeul-8-2023" rel="noopener noreferrer nofollow">JUG Saxony Day 2023</a></td><td>September 29, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Radebeul, Germany</td></tr><tr><td>148</td><td><a href="https://dev.events/conferences/java-forum-nord-hannover-8-2023" rel="noopener noreferrer nofollow">Java Forum Nord</a></td><td>September 12, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Hannover, Germany</td></tr><tr><td>149</td><td><a href="https://dev.events/conferences/java-zone-oslo-8-2023" rel="noopener noreferrer nofollow">JavaZone 2023</a></td><td>September 5-7, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/no.svg" width="13px"/>&nbsp;
-Oslo, Norway</td></tr><tr><td>150</td><td><a href="https://dev.events/conferences/kafka-summit-london-london-4-2023" rel="noopener noreferrer nofollow">Kafka Summit London</a></td><td>May 16-17, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>151</td><td><a href="https://dev.events/conferences/kotlin-dev-day-amsterdam-10-2023" rel="noopener noreferrer nofollow">Kotlin Dev Day</a></td><td>November 16, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/nl.svg" width="13px"/>&nbsp;
-Amsterdam, Netherlands</td></tr><tr><td>152</td><td><a href="https://dev.events/conferences/kubernetes-community-days-italy-milano-5-2023" rel="noopener noreferrer nofollow">Kubernetes Community Days Italy 2023</a></td><td>June 16, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/it.svg" width="13px"/>&nbsp;
-Milano, Italy</td></tr><tr><td>153</td><td><a href="https://dev.events/conferences/lambda-days-krakow-5-2023" rel="noopener noreferrer nofollow">Lambda Days</a></td><td>June 5-6, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/pl.svg" width="13px"/>&nbsp;
-Krakow, Poland</td></tr><tr><td>154</td><td><a href="https://dev.events/conferences/laravel-live-uk-london-5-2023" rel="noopener noreferrer nofollow">Laravel Live UK</a></td><td>June 22-23, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>155</td><td><a href="https://dev.events/conferences/latitude59-tallinn-4-2023" rel="noopener noreferrer nofollow">Latitude59</a></td><td>May 24-26, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ee.svg" width="13px"/>&nbsp;
-Tallinn, Estonia</td></tr><tr><td>156</td><td><a href="https://dev.events/conferences/le-ss-conference-berlin-berlin-8-2023" rel="noopener noreferrer nofollow">LeSS Conference Berlin</a></td><td>September 27-28, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Berlin, Germany</td></tr><tr><td>157</td><td><a href="https://dev.events/conferences/lead-dev-london-london-5-2023" rel="noopener noreferrer nofollow">LeadDev London 2023</a></td><td>June 27-28, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>158</td><td><a href="https://dev.events/conferences/linux-security-summit-europe-bilbao-8-2023" rel="noopener noreferrer nofollow">Linux Security Summit Europe</a></td><td>September 20-21, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/es.svg" width="13px"/>&nbsp;
-Bilbao, Spain</td></tr><tr><td>159</td><td><a href="https://dev.events/conferences/lisbon-s-tech-job-fair-lisbon-8-2023" rel="noopener noreferrer nofollow">Lisbon's Tech Job Fair</a></td><td>September 21, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/pt.svg" width="13px"/>&nbsp;
-Lisbon, Portugal</td></tr><tr><td>160</td><td><a href="https://dev.events/conferences/london-tech-week-london-5-2023" rel="noopener noreferrer nofollow">London Tech Week</a></td><td>June 12-16, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>161</td><td><a href="https://dev.events/conferences/ml-conference-23-munich-5-2023" rel="noopener noreferrer nofollow">ML Conference 23</a></td><td>June 19-22, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Munich, Germany</td></tr><tr><td>162</td><td><a href="https://dev.events/conferences/machine-learning-prague-prague-5-2023" rel="noopener noreferrer nofollow">Machine Learning Prague</a></td><td>June 2-4, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/cz.svg" width="13px"/>&nbsp;
-Prague, Czech Republic</td></tr><tr><td>163</td><td><a href="https://dev.events/conferences/macoun-frankfurt-8-2023" rel="noopener noreferrer nofollow">Macoun 2023</a></td><td>September 23-24, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Frankfurt , Germany</td></tr><tr><td>164</td><td><a href="https://dev.events/conferences/manage-agile-berlin-10-2023" rel="noopener noreferrer nofollow">Manage Agile</a></td><td>November 14-16, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Berlin, Germany</td></tr><tr><td>165</td><td><a href="https://dev.events/conferences/middlesbrough-front-end-middlesbrough-6-2023" rel="noopener noreferrer nofollow">Middlesbrough Front End</a></td><td>July 19, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-Middlesbrough, United Kingdom</td></tr><tr><td>166</td><td><a href="https://dev.events/conferences/mobius-moscow-4-2023" rel="noopener noreferrer nofollow">Mobius</a></td><td>May 19-20, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ru.svg" width="13px"/>&nbsp;
-Moscow, Russia</td></tr><tr><td>167</td><td><a href="https://dev.events/conferences/money-20-20-europe-amsterdam-5-2023" rel="noopener noreferrer nofollow">Money 20/20 Europe</a></td><td>June 6-8, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/nl.svg" width="13px"/>&nbsp;
-Amsterdam, Netherlands</td></tr><tr><td>168</td><td><a href="https://dev.events/conferences/mongo-db-local-london-london-8-2023" rel="noopener noreferrer nofollow">MongoDB .local London</a></td><td>September 26, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>169</td><td><a href="https://dev.events/conferences/ndc-oslo-oslo-4-2023" rel="noopener noreferrer nofollow">NDC Oslo</a></td><td>May 22-26, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/no.svg" width="13px"/>&nbsp;
-Oslo, Norway</td></tr><tr><td>170</td><td><a href="https://dev.events/conferences/ndc-porto-porto-3-2023" rel="noopener noreferrer nofollow">NDC Porto</a></td><td>October 16-20, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/pt.svg" width="13px"/>&nbsp;
-Porto, Portugal</td></tr><tr><td>171</td><td><a href="https://dev.events/conferences/ndc-tech-town-kongsberg-8-2023" rel="noopener noreferrer nofollow">NDC TechTown</a></td><td>September 18-21, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/no.svg" width="13px"/>&nbsp;
-Kongsberg, Norway</td></tr><tr><td>172</td><td><a href="https://dev.events/conferences/netcoreconf-malaga-4-2023" rel="noopener noreferrer nofollow">Netcoreconf 2023</a></td><td>May 27, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/es.svg" width="13px"/>&nbsp;
-Malaga, Spain</td></tr><tr><td>173</td><td><a href="https://dev.events/conferences/node-js-conference-brescia-8-2023" rel="noopener noreferrer nofollow">NodeJS Conference 2023</a></td><td>September 30, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/it.svg" width="13px"/>&nbsp;
-Brescia, Italy</td></tr><tr><td>174</td><td><a href="https://dev.events/conferences/nordic-blockchain-conference-copenhagen-8-2023" rel="noopener noreferrer nofollow">Nordic Blockchain Conference 2023</a></td><td>September 7-8, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/dk.svg" width="13px"/>&nbsp;
-Copenhagen, Denmark</td></tr><tr><td>175</td><td><a href="https://dev.events/conferences/nordic-game-malmo-4-2023" rel="noopener noreferrer nofollow">Nordic Game 2023</a></td><td>May 23-26, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/se.svg" width="13px"/>&nbsp;
-Malmo, Sweden</td></tr><tr><td>176</td><td><a href="https://dev.events/conferences/nordic-it-security-stockholm-4-2023" rel="noopener noreferrer nofollow">Nordic IT Security</a></td><td>May 25, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/se.svg" width="13px"/>&nbsp;
-Stockholm, Sweden</td></tr><tr><td>177</td><td><a href="https://dev.events/conferences/nordic-summit-copenhagen-8-2023" rel="noopener noreferrer nofollow">Nordic Summit</a></td><td>September 23, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/dk.svg" width="13px"/>&nbsp;
-Copenhagen, Denmark</td></tr><tr><td>178</td><td><a href="https://dev.events/conferences/nordic-testing-days-tallinn-5-2023" rel="noopener noreferrer nofollow">Nordic Testing Days</a></td><td>June 7-9, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ee.svg" width="13px"/>&nbsp;
-Tallinn, Estonia</td></tr><tr><td>179</td><td><a href="https://dev.events/conferences/odsc-europe-london-5-2023" rel="noopener noreferrer nofollow">ODSC Europe</a></td><td>June 14-15, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>180</td><td><a href="https://dev.events/conferences/open-source-monitoring-conference-nuremberg-10-2023" rel="noopener noreferrer nofollow">Open Source Monitoring Conference</a></td><td>November 7, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Nuremberg, Germany</td></tr><tr><td>181</td><td><a href="https://dev.events/conferences/open-source-summit-bilbao-8-2023" rel="noopener noreferrer nofollow">Open Source Summit</a></td><td>September 19-21, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/es.svg" width="13px"/>&nbsp;
-Bilbao, Spain</td></tr><tr><td>182</td><td><a href="https://dev.events/conferences/ps-conf-eu-prague-5-2023" rel="noopener noreferrer nofollow">PSConfEU</a></td><td>June 19-22, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/cz.svg" width="13px"/>&nbsp;
-Prague, Czech Republic</td></tr><tr><td>183</td><td><a href="https://dev.events/conferences/push-ux-munich-9-2023" rel="noopener noreferrer nofollow">PUSH UX 2023</a></td><td>October 19-20, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Munich, Germany</td></tr><tr><td>184</td><td><a href="https://dev.events/conferences/pamplona-software-crafters-pamplona-5-2023" rel="noopener noreferrer nofollow">Pamplona Software Crafters</a></td><td>June 2-3, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/es.svg" width="13px"/>&nbsp;
-Pamplona, Spain</td></tr><tr><td>185</td><td><a href="https://dev.events/conferences/paris-web-paris-8-2023" rel="noopener noreferrer nofollow">Paris Web</a></td><td>September 28-30, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/fr.svg" width="13px"/>&nbsp;
-Paris, France</td></tr><tr><td>186</td><td><a href="https://dev.events/conferences/pixel-pioneers-bristol-bristol-5-2023" rel="noopener noreferrer nofollow">Pixel Pioneers Bristol</a></td><td>June 16, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-Bristol, United Kingdom</td></tr><tr><td>187</td><td><a href="https://dev.events/conferences/pragma-conference-bologna-9-2023" rel="noopener noreferrer nofollow">Pragma Conference 2023</a></td><td>October 5-6, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/it.svg" width="13px"/>&nbsp;
-Bologna, Italy</td></tr><tr><td>188</td><td><a href="https://dev.events/conferences/py-con-es-canarias-tenerife-9-2023" rel="noopener noreferrer nofollow">PyCon ES Canarias</a></td><td>October 6-8, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/es.svg" width="13px"/>&nbsp;
-Tenerife, Spain</td></tr><tr><td>189</td><td><a href="https://dev.events/conferences/py-con-italia-florence-4-2023" rel="noopener noreferrer nofollow">PyCon Italia 2023</a></td><td>May 25-28, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/it.svg" width="13px"/>&nbsp;
-Florence, Italy</td></tr><tr><td>190</td><td><a href="https://dev.events/conferences/py-con-lt-vilnius-4-2023" rel="noopener noreferrer nofollow">PyCon LT 2023</a></td><td>May 17-20, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/lt.svg" width="13px"/>&nbsp;
-Vilnius, Lithuania</td></tr><tr><td>191</td><td><a href="https://dev.events/conferences/py-con-pl-gliwice-5-2023" rel="noopener noreferrer nofollow">PyCon PL</a></td><td>June 29 - July 2, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/pl.svg" width="13px"/>&nbsp;
-Gliwice, Poland</td></tr><tr><td>192</td><td><a href="https://dev.events/conferences/py-con-portugal-porto-8-2023" rel="noopener noreferrer nofollow">PyCon Portugal</a></td><td>September 7-9, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/pt.svg" width="13px"/>&nbsp;
-Porto, Portugal</td></tr><tr><td>193</td><td><a href="https://dev.events/conferences/py-con-russia-moscow-6-2023" rel="noopener noreferrer nofollow">PyCon Russia</a></td><td>July 28-29, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ru.svg" width="13px"/>&nbsp;
-Moscow, Russia</td></tr><tr><td>194</td><td><a href="https://dev.events/conferences/py-con-uk-cardiff-8-2023" rel="noopener noreferrer nofollow">PyCon UK</a></td><td>September 22-25, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-Cardiff, United Kingdom</td></tr><tr><td>195</td><td><a href="https://dev.events/conferences/qa-challenge-accepted-sofia-9-2023" rel="noopener noreferrer nofollow">QA: Challenge Accepted</a></td><td>October 1, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/bg.svg" width="13px"/>&nbsp;
-Sofia, Bulgaria</td></tr><tr><td>196</td><td><a href="https://dev.events/conferences/qubit-conference-prague-prague-4-2023" rel="noopener noreferrer nofollow">Qubit Conference Prague 2023</a></td><td>May 17-18, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/cz.svg" width="13px"/>&nbsp;
-Prague, Czech Republic</td></tr><tr><td>197</td><td><a href="https://dev.events/conferences/rails-world-amsterdam-9-2023" rel="noopener noreferrer nofollow">Rails World</a></td><td>October 5-6, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/nl.svg" width="13px"/>&nbsp;
-Amsterdam, Netherlands</td></tr><tr><td>198</td><td><a href="https://dev.events/conferences/react-advanced-london-9-2023" rel="noopener noreferrer nofollow">React Advanced</a></td><td>October 20-23, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>199</td><td><a href="https://dev.events/conferences/react-alicante-alicante-8-2023" rel="noopener noreferrer nofollow">React Alicante</a></td><td>September 28-30, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/es.svg" width="13px"/>&nbsp;
-Alicante, Spain</td></tr><tr><td>200</td><td><a href="https://dev.events/conferences/react-camp-berlin-5-2023" rel="noopener noreferrer nofollow">React Camp</a></td><td>June 26-28, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Berlin, Germany</td></tr><tr><td>201</td><td><a href="https://dev.events/conferences/react-native-wroclaw-8-2023" rel="noopener noreferrer nofollow">React Native EU</a></td><td>September 7-8, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/pl.svg" width="13px"/>&nbsp;
-Wroclaw, Poland</td></tr><tr><td>202</td><td><a href="https://dev.events/conferences/react-norway-larvik-5-2023" rel="noopener noreferrer nofollow">React Norway 2023</a></td><td>June 16, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/no.svg" width="13px"/>&nbsp;
-Larvik, Norway</td></tr><tr><td>203</td><td><a href="https://dev.events/conferences/react-summit-hybrid-online-5-2023" rel="noopener noreferrer nofollow">React Summit Hybrid</a></td><td>June 2-6, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/nl.svg" width="13px"/>&nbsp;
-Amsterdam, Netherlands</td></tr><tr><td>204</td><td><a href="https://dev.events/conferences/react-on-the-beach-amsterdam-8-2023" rel="noopener noreferrer nofollow">React on the Beach</a></td><td>September 7, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/nl.svg" width="13px"/>&nbsp;
-Amsterdam, Netherlands</td></tr><tr><td>205</td><td><a href="https://dev.events/conferences/reboot-develop-blue-dubrovnik-3-2023" rel="noopener noreferrer nofollow">Reboot Develop Blue 2023</a></td><td>April 24-26, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/hr.svg" width="13px"/>&nbsp;
-Dubrovnik, Croatia</td></tr><tr><td>206</td><td><a href="https://dev.events/conferences/rom-hack-rome-8-2023" rel="noopener noreferrer nofollow">RomHack</a></td><td>September 16, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/it.svg" width="13px"/>&nbsp;
-Rome, Italy</td></tr><tr><td>207</td><td><a href="https://dev.events/conferences/romania-testing-conference-cluj-napoca-5-2023" rel="noopener noreferrer nofollow">Romania Testing Conference</a></td><td>June 6-8, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ro.svg" width="13px"/>&nbsp;
-Cluj-Napoca, Romania</td></tr><tr><td>208</td><td><a href="https://dev.events/conferences/ruby-unconf-hamburg-5-2023" rel="noopener noreferrer nofollow">Ruby Unconf</a></td><td>June 10-11, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Hamburg, Germany</td></tr><tr><td>209</td><td><a href="https://dev.events/conferences/ruhr-sec-bochum-4-2023" rel="noopener noreferrer nofollow">RuhrSec</a></td><td>May 11-12, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Bochum, Germany</td></tr><tr><td>210</td><td><a href="https://dev.events/conferences/sa-fe-summit-prague-prague-4-2023" rel="noopener noreferrer nofollow">SAFe Summit Prague</a></td><td>May 15-17, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/cz.svg" width="13px"/>&nbsp;
-Prague, Czech Republic</td></tr><tr><td>211</td><td><a href="https://dev.events/conferences/sanae-beer-ex-bratislava-10-2023" rel="noopener noreferrer nofollow">SANAE BEER.EX 2023</a></td><td>November 8-9, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/sk.svg" width="13px"/>&nbsp;
-Bratislava, Slovakia</td></tr><tr><td>212</td><td><a href="https://dev.events/conferences/sdd-london-4-2023" rel="noopener noreferrer nofollow">SDD 2023</a></td><td>May 15-19, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>213</td><td><a href="https://dev.events/conferences/sds-zurich-5-2023" rel="noopener noreferrer nofollow">SDS2023</a></td><td>June 22-23, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ch.svg" width="13px"/>&nbsp;
-Zurich, Switzerland</td></tr><tr><td>214</td><td><a href="https://dev.events/conferences/sqa-days-32-moscow-4-2023" rel="noopener noreferrer nofollow">SQA Days/ 32</a></td><td>May 19-20, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ru.svg" width="13px"/>&nbsp;
-Moscow, Russia</td></tr><tr><td>215</td><td><a href="https://dev.events/conferences/sr-eday-london-8-2023" rel="noopener noreferrer nofollow">SREday 2023</a></td><td>September 14-15, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>216</td><td><a href="https://dev.events/conferences/susecon-munich-5-2023" rel="noopener noreferrer nofollow">SUSECON 2023</a></td><td>June 20-22, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Munich, Germany</td></tr><tr><td>217</td><td><a href="https://dev.events/conferences/saint-high-load-saint-petersburg-5-2023" rel="noopener noreferrer nofollow">Saint HighLoad 2023</a></td><td>June 26-27, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ru.svg" width="13px"/>&nbsp;
-Saint Petersburg, Russia</td></tr><tr><td>218</td><td><a href="https://dev.events/conferences/saint-team-lead-conf-saint-petersburg-5-2023" rel="noopener noreferrer nofollow">Saint TeamLead Conf 2023</a></td><td>June 29-30, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ru.svg" width="13px"/>&nbsp;
-Saint Petersburg, Russia</td></tr><tr><td>219</td><td><a href="https://dev.events/conferences/salon-de-la-data-nantes-8-2023" rel="noopener noreferrer nofollow">Salon de la data</a></td><td>September 19, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/fr.svg" width="13px"/>&nbsp;
-Nantes, France</td></tr><tr><td>220</td><td><a href="https://dev.events/conferences/scala-days-madrid-madrid-8-2023" rel="noopener noreferrer nofollow">Scala Days Madrid</a></td><td>September 11-14, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/es.svg" width="13px"/>&nbsp;
-Madrid, Spain</td></tr><tr><td>221</td><td><a href="https://dev.events/conferences/scrum-day-london-london-5-2023" rel="noopener noreferrer nofollow">Scrum Day London</a></td><td>June 28-29, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>222</td><td><a href="https://dev.events/conferences/security-fest-gothenburg-4-2023" rel="noopener noreferrer nofollow">Security Fest</a></td><td>May 25-26, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/se.svg" width="13px"/>&nbsp;
-Gothenburg, Sweden</td></tr><tr><td>223</td><td><a href="https://dev.events/conferences/serverless-architecture-conference-london-3-2023" rel="noopener noreferrer nofollow">Serverless Architecture Conference</a></td><td>April 24-27, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>224</td><td><a href="https://dev.events/conferences/serverless-architecture-conference-berlin-9-2023" rel="noopener noreferrer nofollow">Serverless Architecture Conference</a></td><td>October 17-19, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Berlin, Germany</td></tr><tr><td>225</td><td><a href="https://dev.events/conferences/serverless-days-paris-paris-5-2023" rel="noopener noreferrer nofollow">ServerlessDays Paris 2023</a></td><td>June 7, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/fr.svg" width="13px"/>&nbsp;
-Paris, France</td></tr><tr><td>226</td><td><a href="https://dev.events/conferences/serverless-days-zurich-zurich-5-2023" rel="noopener noreferrer nofollow">ServerlessDays Zurich</a></td><td>June 22, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ch.svg" width="13px"/>&nbsp;
-Zurich, Switzerland</td></tr><tr><td>227</td><td><a href="https://dev.events/conferences/slush-helsinki-10-2023" rel="noopener noreferrer nofollow">Slush</a></td><td>November 30 - December 1, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/fi.svg" width="13px"/>&nbsp;
-Helsinki, Finland</td></tr><tr><td>228</td><td><a href="https://dev.events/conferences/smashing-conf-freiburg-freiburg-8-2023" rel="noopener noreferrer nofollow">SmashingConf Freiburg</a></td><td>September 4-6, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Freiburg, Germany</td></tr><tr><td>229</td><td><a href="https://dev.events/conferences/software-quality-days-munich-4-2023" rel="noopener noreferrer nofollow">Software Quality Days 2023</a></td><td>May 23-25, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Munich, Germany</td></tr><tr><td>230</td><td><a href="https://dev.events/conferences/spring-i-o-barcelona-4-2023" rel="noopener noreferrer nofollow">Spring I/O 2023</a></td><td>May 18-19, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/es.svg" width="13px"/>&nbsp;
-Barcelona, Spain</td></tr><tr><td>231</td><td><a href="https://dev.events/conferences/staff-plus-london-london-5-2023" rel="noopener noreferrer nofollow">StaffPlus London</a></td><td>June 26-28, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>232</td><td><a href="https://dev.events/conferences/swift-heroes-turin-turin-4-2023" rel="noopener noreferrer nofollow">Swift Heroes Turin</a></td><td>May 4-5, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/it.svg" width="13px"/>&nbsp;
-Turin, Italy</td></tr><tr><td>233</td><td><a href="https://dev.events/conferences/swift-conf-cologne-7-2023" rel="noopener noreferrer nofollow">SwiftConf</a></td><td>August 16-17, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Cologne, Germany</td></tr><tr><td>234</td><td><a href="https://dev.events/conferences/swiss-pg-day-rapperswil-jona-5-2023" rel="noopener noreferrer nofollow">Swiss PGDay 2023</a></td><td>June 29-30, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ch.svg" width="13px"/>&nbsp;
-Rapperswil-Jona , Switzerland</td></tr><tr><td>235</td><td><a href="https://dev.events/conferences/swiss-testing-day-zuerich-5-2023" rel="noopener noreferrer nofollow">Swiss Testing Day</a></td><td>June 21, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ch.svg" width="13px"/>&nbsp;
-Zürich, Switzerland</td></tr><tr><td>236</td><td><a href="https://dev.events/conferences/symfony-con-brussels-brussels-11-2023" rel="noopener noreferrer nofollow">SymfonyCon Brussels 2023</a></td><td>December 7-8, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/be.svg" width="13px"/>&nbsp;
-Brussels, Belgium</td></tr><tr><td>237</td><td><a href="https://dev.events/conferences/te-qnation-utrecht-4-2023" rel="noopener noreferrer nofollow">TEQnation</a></td><td>May 17, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/nl.svg" width="13px"/>&nbsp;
-Utrecht, Netherlands</td></tr><tr><td>238</td><td><a href="https://dev.events/conferences/talent-management-reloaded-europe-berlin-6-2023" rel="noopener noreferrer nofollow">Talent Management Reloaded Europe</a></td><td>July 2-4, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Berlin, Germany</td></tr><tr><td>239</td><td><a href="https://dev.events/conferences/teamsdagen-stockholm-9-2023" rel="noopener noreferrer nofollow">Teamsdagen</a></td><td>October 4, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/se.svg" width="13px"/>&nbsp;
-Stockholm, Sweden</td></tr><tr><td>240</td><td><a href="https://dev.events/conferences/tech-summit-london-london-10-2023" rel="noopener noreferrer nofollow">Tech Summit London</a></td><td>November 29-30, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>241</td><td><a href="https://dev.events/conferences/tech-eu-summit-brussels-4-2023" rel="noopener noreferrer nofollow">Tech.eu Summit 2023</a></td><td>May 24, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/be.svg" width="13px"/>&nbsp;
-Brussels, Belgium</td></tr><tr><td>242</td><td><a href="https://dev.events/conferences/tech-saloniki-thessaloniki-4-2023" rel="noopener noreferrer nofollow">TechSaloniki</a></td><td>May 12-13, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gr.svg" width="13px"/>&nbsp;
-Thessaloniki , Greece</td></tr><tr><td>243</td><td><a href="https://dev.events/conferences/techorama-be-antwerp-4-2023" rel="noopener noreferrer nofollow">Techorama BE 2023</a></td><td>May 15-17, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/be.svg" width="13px"/>&nbsp;
-Antwerp, Belgium</td></tr><tr><td>244</td><td><a href="https://dev.events/conferences/techorama-nl-utrecht-9-2023" rel="noopener noreferrer nofollow">Techorama NL 2023</a></td><td>October 9-11, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/nl.svg" width="13px"/>&nbsp;
-Utrecht, Netherlands</td></tr><tr><td>245</td><td><a href="https://dev.events/conferences/test-automation-days-rotterdam-4-2023" rel="noopener noreferrer nofollow">Test Automation Days</a></td><td>May 24-25, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/nl.svg" width="13px"/>&nbsp;
-Rotterdam, Netherlands</td></tr><tr><td>246</td><td><a href="https://dev.events/conferences/test-bash-uk-liverpool-8-2023" rel="noopener noreferrer nofollow">TestBash UK 2023</a></td><td>September 20-21, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-Liverpool, United Kingdom</td></tr><tr><td>247</td><td><a href="https://dev.events/conferences/testing-united-conference-bratislava-bratislava-8-2023" rel="noopener noreferrer nofollow">Testing United Conference Bratislava</a></td><td>September 4-5, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/sk.svg" width="13px"/>&nbsp;
-Bratislava, Slovakia</td></tr><tr><td>248</td><td><a href="https://dev.events/conferences/the-rails-saa-s-conference-athens-5-2023" rel="noopener noreferrer nofollow">The Rails SaaS Conference</a></td><td>June 1-2, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gr.svg" width="13px"/>&nbsp;
-Athens, Greece</td></tr><tr><td>249</td><td><a href="https://dev.events/conferences/the-things-conference-amsterdam-8-2023" rel="noopener noreferrer nofollow">The Things Conference</a></td><td>September 21-22, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/nl.svg" width="13px"/>&nbsp;
-Amsterdam, Netherlands</td></tr><tr><td>250</td><td><a href="https://dev.events/conferences/the-ux-conf-london-8-2023" rel="noopener noreferrer nofollow">The Ux Conf</a></td><td>September 13, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>251</td><td><a href="https://dev.events/conferences/ux-nordic-aarhus-7-2023" rel="noopener noreferrer nofollow">UX Nordic 2023</a></td><td>August 24-25, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/dk.svg" width="13px"/>&nbsp;
-Aarhus, Denmark</td></tr><tr><td>252</td><td><a href="https://dev.events/conferences/update-conference-prague-10-2023" rel="noopener noreferrer nofollow">Update Conference</a></td><td>November 23-24, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/cz.svg" width="13px"/>&nbsp;
-Prague, Czech Republic</td></tr><tr><td>253</td><td><a href="https://dev.events/conferences/uxcon-vienna-vienna-8-2023" rel="noopener noreferrer nofollow">Uxcon Vienna</a></td><td>September 13-14, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/at.svg" width="13px"/>&nbsp;
-Vienna , Austria</td></tr><tr><td>254</td><td><a href="https://dev.events/conferences/viva-technology-paris-5-2023" rel="noopener noreferrer nofollow">Viva Technology</a></td><td>June 14-17, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/fr.svg" width="13px"/>&nbsp;
-Paris, France</td></tr><tr><td>255</td><td><a href="https://dev.events/conferences/voxxed-days-brussels-brussels-4-2023" rel="noopener noreferrer nofollow">Voxxed Days Brussels</a></td><td>May 23, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/be.svg" width="13px"/>&nbsp;
-Brussels, Belgium</td></tr><tr><td>256</td><td><a href="https://dev.events/conferences/voxxed-days-cluj-napoca-cluj-napoca-9-2023" rel="noopener noreferrer nofollow">Voxxed Days Cluj Napoca</a></td><td>October 11-12, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ro.svg" width="13px"/>&nbsp;
-Cluj-Napoca, Romania</td></tr><tr><td>257</td><td><a href="https://dev.events/conferences/voxxed-days-iasi-iasi-4-2023" rel="noopener noreferrer nofollow">Voxxed Days Iasi</a></td><td>May 23-24, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ro.svg" width="13px"/>&nbsp;
-Iasi, Romania</td></tr><tr><td>258</td><td><a href="https://dev.events/conferences/voxxed-days-luxembourg-luxembourg-5-2023" rel="noopener noreferrer nofollow">Voxxed Days Luxembourg</a></td><td>June 21-22, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/lu.svg" width="13px"/>&nbsp;
-Luxembourg, Luxembourg</td></tr><tr><td>259</td><td><a href="https://dev.events/conferences/vue-js-live-london-4-2023" rel="noopener noreferrer nofollow">Vue.js Live</a></td><td>May 12, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-London, United Kingdom</td></tr><tr><td>260</td><td><a href="https://dev.events/conferences/we-are-developers-world-congress-berlin-6-2023" rel="noopener noreferrer nofollow">WeAreDevelopers World Congress 2023</a></td><td>July 27-28, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Berlin, Germany</td></tr><tr><td>261</td><td><a href="https://dev.events/conferences/web-summer-camp-opatija-7-2023" rel="noopener noreferrer nofollow">Web Summer Camp 2023</a></td><td>August 31 - September 2, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/hr.svg" width="13px"/>&nbsp;
-Opatija, Croatia</td></tr><tr><td>262</td><td><a href="https://dev.events/conferences/web-summit-lisbon-10-2023" rel="noopener noreferrer nofollow">Web Summit</a></td><td>November 13-16, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/pt.svg" width="13px"/>&nbsp;
-Lisbon, Portugal</td></tr><tr><td>263</td><td><a href="https://dev.events/conferences/webinale-berlin-4-2023" rel="noopener noreferrer nofollow">Webinale 2023</a></td><td>May 22-26, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Berlin, Germany</td></tr><tr><td>264</td><td><a href="https://dev.events/conferences/wey-wey-web-23-malaga-10-2023" rel="noopener noreferrer nofollow">Wey Wey Web 23</a></td><td>November 23-24, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/es.svg" width="13px"/>&nbsp;
-Malaga, Spain</td></tr><tr><td>265</td><td><a href="https://dev.events/conferences/women-in-data-and-ai-tech-festival-berlin-5-2023" rel="noopener noreferrer nofollow">Women+ in Data and AI Tech Festival</a></td><td>June 30, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Berlin, Germany</td></tr><tr><td>266</td><td><a href="https://dev.events/conferences/word-camp-europe-athens-5-2023" rel="noopener noreferrer nofollow">WordCamp Europe 2023</a></td><td>June 8-10, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gr.svg" width="13px"/>&nbsp;
-Athens, Greece</td></tr><tr><td>267</td><td><a href="https://dev.events/conferences/workplace-ninja-summit-baden-8-2023" rel="noopener noreferrer nofollow">Workplace Ninja Summit</a></td><td>September 27-29, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ch.svg" width="13px"/>&nbsp;
-Baden, Switzerland</td></tr><tr><td>268</td><td><a href="https://dev.events/conferences/world-data-summit-amsterdam-4-2023" rel="noopener noreferrer nofollow">World Data Summit</a></td><td>May 17-19, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/nl.svg" width="13px"/>&nbsp;
-Amsterdam, Netherlands</td></tr><tr><td>269</td><td><a href="https://dev.events/conferences/wroclove-rb-wroclaw-8-2023" rel="noopener noreferrer nofollow">Wroclove.rb</a></td><td>September 15-17, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/pl.svg" width="13px"/>&nbsp;
-Wroclaw, Poland</td></tr><tr><td>270</td><td><a href="https://dev.events/conferences/xp-amsterdam-amsterdam-5-2023" rel="noopener noreferrer nofollow">XP Amsterdam</a></td><td>June 13-16, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/nl.svg" width="13px"/>&nbsp;
-Amsterdam, Netherlands</td></tr><tr><td>271</td><td><a href="https://dev.events/conferences/xr-expo-stuttgart-5-2023" rel="noopener noreferrer nofollow">XR Expo 2023</a></td><td>June 15-16, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
- Stuttgart, Germany</td></tr><tr><td>272</td><td><a href="https://dev.events/conferences/yeurdreamin-brussels-5-2023" rel="noopener noreferrer nofollow">YEURDREAMIN'</a></td><td>June 16, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/be.svg" width="13px"/>&nbsp;
-Brussels, Belgium</td></tr><tr><td>273</td><td><a href="https://dev.events/conferences/data2day-karlsruhe-9-2023" rel="noopener noreferrer nofollow">data2day</a></td><td>October 11-12, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Karlsruhe, Germany</td></tr><tr><td>274</td><td><a href="https://dev.events/conferences/data-minds-connect-mechelen-9-2023" rel="noopener noreferrer nofollow">dataMinds Connect 2023</a></td><td>October 9-10, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/be.svg" width="13px"/>&nbsp;
-Mechelen, Belgium</td></tr><tr><td>275</td><td><a href="https://dev.events/conferences/e-xperience-agile-week-lisbon-8-2023" rel="noopener noreferrer nofollow">eXperience Agile Week 2023</a></td><td>September 22-26, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/pt.svg" width="13px"/>&nbsp;
-Lisbon, Portugal</td></tr><tr><td>276</td><td><a href="https://dev.events/conferences/enter-js-darmstadt-5-2023" rel="noopener noreferrer nofollow">enterJS</a></td><td>June 21-22, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Darmstadt, Germany</td></tr><tr><td>277</td><td><a href="https://dev.events/conferences/i-os-dev-uk-aberystwyth-8-2023" rel="noopener noreferrer nofollow">iOSDevUK</a></td><td>September 4-7, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="13px"/>&nbsp;
-Aberystwyth, United Kingdom</td></tr><tr><td>278</td><td><a href="https://dev.events/conferences/performance-now-amsterdam-10-2023" rel="noopener noreferrer nofollow">performance.now()</a></td><td>November 2-3, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/nl.svg" width="13px"/>&nbsp;
-Amsterdam, Netherlands</td></tr><tr><td>279</td><td><a href="https://dev.events/conferences/phpday-verona-4-2023" rel="noopener noreferrer nofollow">phpday 2023</a></td><td>May 18-19, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/it.svg" width="13px"/>&nbsp;
-Verona, Italy</td></tr><tr><td>280</td><td><a href="https://dev.events/conferences/pl-droid-warsaw-4-2023" rel="noopener noreferrer nofollow">plDroid</a></td><td>May 30-31, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/pl.svg" width="13px"/>&nbsp;
-Warsaw, Poland</td></tr><tr><td>281</td><td><a href="https://dev.events/conferences/pl-swift-warsaw-4-2023" rel="noopener noreferrer nofollow">plSwift</a></td><td>May 30-31, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/pl.svg" width="13px"/>&nbsp;
-Warsaw, Poland</td></tr><tr><td>282</td><td><a href="https://dev.events/conferences/rubyday-verona-5-2023" rel="noopener noreferrer nofollow">rubyday 2023</a></td><td>June 16, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/it.svg" width="13px"/>&nbsp;
-Verona, Italy</td></tr><tr><td>283</td><td><a href="https://dev.events/conferences/stackconf-berlin-8-2023" rel="noopener noreferrer nofollow">stackconf</a></td><td>September 13-14, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Berlin, Germany</td></tr><tr><td>284</td><td><a href="https://dev.events/conferences/t2-infosec-helsinki-4-2023" rel="noopener noreferrer nofollow">t2 infosec</a></td><td>May 4-5, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/fi.svg" width="13px"/>&nbsp;
-Helsinki, Finland</td></tr><tr><td>285</td><td><a href="https://dev.events/conferences/un-fix-berlin-10-2023" rel="noopener noreferrer nofollow">unFIX</a></td><td>November 8-9, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;
-Berlin, Germany</td></tr><tr><td>286</td><td><a href="https://dev.events/conferences/v-euc-tech-con-utrecht-5-2023" rel="noopener noreferrer nofollow">vEUC TechCon</a></td><td>June 22, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/nl.svg" width="13px"/>&nbsp;
-Utrecht, Netherlands</td></tr><tr><td>287</td><td><a href="https://dev.events/conferences/x-ai-lisbon-6-2023" rel="noopener noreferrer nofollow">xAI 2023</a></td><td>July 26-28, 2023</td><td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/pt.svg" width="13px"/>&nbsp;
-Lisbon, Portugal</td></tr></tbody></table><h2>Other categories</h2><p><ul><li><a href="https://dev.events/cpp">C/C++ conferences</a></li><li><a href="https://dev.events/cloud">Cloud conferences</a></li><li><a href="https://dev.events/mobile">Mobile conferences</a></li><li><a href="https://dev.events/android">Android conferences</a></li><li><a href="https://dev.events/ios">iOS / Swift conferences</a></li><li><a href="https://dev.events/iot">Hardware / IoT conferences</a></li><li><a href="https://dev.events/react">React conferences</a></li><li><a href="https://dev.events/vue">Vue conferences</a></li><li><a href="https://dev.events/linux">Linux / OS conferences</a></li><li><a href="https://dev.events/web">Web / Frontend conferences</a></li><li><a href="https://dev.events/javascript">JavaScript conferences</a></li><li><a href="https://dev.events/typescript">TypeScript conferences</a></li><li><a href="https://dev.events/data">Data / Database conferences</a></li><li><a href="https://dev.events/ai">AI / ML conferences</a></li><li><a href="https://dev.events/devops">DevOps conferences</a></li><li><a href="https://dev.events/dotnet">.NET conferences</a></li><li><a href="https://dev.events/elixir">Elixir conferences</a></li><li><a href="https://dev.events/kotlin">Kotlin conferences</a></li><li><a href="https://dev.events/scala">Scala conferences</a></li><li><a href="https://dev.events/architecture">Software architecture conferences</a></li><li><a href="https://dev.events/fullstack">Full-stack conferences</a></li><li><a href="https://dev.events/golang">Golang conferences</a></li><li><a href="https://dev.events/java">Java conferences</a></li><li><a href="https://dev.events/leadership">Tech leadership conferences</a></li><li><a href="https://dev.events/game">Game dev conferences</a></li><li><a href="https://dev.events/agile">Agile conferences</a></li><li><a href="https://dev.events/scrum">Scrum conferences</a></li><li><a href="https://dev.events/php">PHP conferences</a></li><li><a href="https://dev.events/drupal">Drupal conferences</a></li><li><a href="https://dev.events/laravel">Laravel conferences</a></li><li><a href="https://dev.events/wordpress">Wordpress conferences</a></li><li><a href="https://dev.events/product">Product / UX conferences</a></li><li><a href="https://dev.events/python">Python conferences</a></li><li><a href="https://dev.events/ruby">Ruby conferences</a></li><li><a href="https://dev.events/security">Cybersecurity / InfoSec conferences</a></li><li><a href="https://dev.events/qa">Testing / QA conferences</a></li><li><a href="https://dev.events/kubernetes">Docker / Kubernetes conferences</a></li><li><a href="https://dev.events/blockchain">Blockchain conferences</a></li><li><a href="https://dev.events/recruit">HR / Hiring / Recruiting conferences</a></li><li><a href="https://dev.events/vr">AR / VR / XR conferences</a></li><li><a href="https://dev.events/fp">Functional programming conferences</a></li><li><a href="https://dev.events/fintech">Fintech conferences</a></li><li><a href="https://dev.events/rust">Rust conferences</a></li><li><a href="https://dev.events/it">IT conferences</a></li><li><a href="https://dev.events/tech">Tech conferences</a></li></ul></p><h2>For contributors</h2><p>Please contribute events via <a href="https://dev.events">dev.events</a>.</p><br/><p align="center"><a href="#"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p><p align="center"><a href="#"><img src="http://randojs.com/images/backToTopButton.png" alt="Back to top" height="29"/></a></p>
+<p align="center"><a href="https://github.com/sizovs/open-salary"><img src="https://i0.wp.com/texasmusicpickers.com/wp-content/uploads/2018/09/Tickets_PNG_Clipart_Image.png?fit=600%2C509&amp;ssl=1" alt="Open salaries logo" height="200"/></a></p><h1 align="center">Best tech conferences 2023/2024</h1><p align="center">A list of upcoming conferences sourced from <a href="https://dev.events">dev.events</a>.</p><p align="center"><a href="https://twitter.com/intent/tweet?text=https://dev.events"><img src="http://randojs.com/images/tweetShield.svg" alt="Tweet" height="20"/></a></p><br/><br/><h2>Top events / best-sellers</h2><table><tr><td><img src="https://images.weserv.nl/?url=https://dev.events/logos/rentea.jpg&amp;h=48&amp;w=48&amp;fit=cover&amp;mask=circle&amp;maxage=7d"/></td><td> <strong><a href="https://clean.re">Clean Architecture Masterclass</a></strong><br/><img src="https://img.shields.io/badge/stars-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen"/></td></tr><tr><td><img src="https://images.weserv.nl/?url=https://dev.events/logos/devternity-in.png&amp;h=48&amp;w=48&amp;fit=cover&amp;mask=circle&amp;maxage=7d"/></td><td> <strong><a href="https://devternity.com">DevTernity - the #1 developer conference</a></strong><br/><img src="https://img.shields.io/badge/stars-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen"/></td></tr><tr><td><img src="https://images.weserv.nl/?url=https://dev.events/logos/eduardsi.png&amp;h=48&amp;w=48&amp;fit=cover&amp;mask=circle&amp;maxage=7d"/></td><td> <strong><a href="https://principal.dev">The Principal Dev – Masterclass for Tech Leads</a></strong><br/><img src="https://img.shields.io/badge/stars-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen"/></td></tr></table><br/><br/><br/><br/><br/>
+
+* [Best tech conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu)
+* [Best Agile conferences 2023 / 2024](https://github.com/best-tech-conferences/agile)
+* [Best Agile conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-agile)
+* [Best Scrum conferences 2023 / 2024](https://github.com/best-tech-conferences/scrum)
+* [Best Scrum conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-scrum)
+* [Best Tech conferences 2023 / 2024](https://github.com/best-tech-conferences/tech)
+* [Best Tech conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-tech)
+* [Best IT conferences 2023 / 2024](https://github.com/best-tech-conferences/it)
+* [Best IT conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-it)
+* [Best tech conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de)
+* [Best Agile conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-agile)
+* [Best Scrum conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-scrum)
+* [Best Tech conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-tech)
+* [Best IT conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-it)
+* [Best tech conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as)
+* [Best developer conferences 2023 / 2024](https://github.com/best-tech-conferences/fullstack)
+* [Best developer conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-fullstack)
+* [Best Software architecture conferences 2023 / 2024](https://github.com/best-tech-conferences/architecture)
+* [Best Software architecture conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-architecture)
+* [Best Tech conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-tech)
+* [Best IT conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-it)
+* [Best tech conferences in India 2023 / 2024](https://github.com/best-tech-conferences/as-in)
+* [Best developer conferences in India 2023 / 2024](https://github.com/best-tech-conferences/as-in-fullstack)
+* [Best Software architecture conferences in India 2023 / 2024](https://github.com/best-tech-conferences/as-in-architecture)
+* [Best Tech conferences in India 2023 / 2024](https://github.com/best-tech-conferences/as-in-tech)
+* [Best IT conferences in India 2023 / 2024](https://github.com/best-tech-conferences/as-in-it)
+* [Best Hardware / IoT conferences 2023 / 2024](https://github.com/best-tech-conferences/iot)
+* [Best Hardware / IoT conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-iot)
+* [Best Hardware / IoT conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-iot)
+* [Best tech conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am)
+* [Best JavaScript conferences 2023 / 2024](https://github.com/best-tech-conferences/javascript)
+* [Best JavaScript conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-javascript)
+* [Best Web / Frontend conferences 2023 / 2024](https://github.com/best-tech-conferences/web)
+* [Best Web / Frontend conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-web)
+* [Best React conferences 2023 / 2024](https://github.com/best-tech-conferences/react)
+* [Best React conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-react)
+* [Best TypeScript conferences 2023 / 2024](https://github.com/best-tech-conferences/typescript)
+* [Best TypeScript conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-typescript)
+* [Best Tech conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-tech)
+* [Best Vue conferences 2023 / 2024](https://github.com/best-tech-conferences/vue)
+* [Best Vue conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-vue)
+* [Best IT conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-it)
+* [Best tech conferences in Brazil 2023 / 2024](https://github.com/best-tech-conferences/am-br)
+* [Best JavaScript conferences in Brazil 2023 / 2024](https://github.com/best-tech-conferences/am-br-javascript)
+* [Best Web / Frontend conferences in Brazil 2023 / 2024](https://github.com/best-tech-conferences/am-br-web)
+* [Best React conferences in Brazil 2023 / 2024](https://github.com/best-tech-conferences/am-br-react)
+* [Best TypeScript conferences in Brazil 2023 / 2024](https://github.com/best-tech-conferences/am-br-typescript)
+* [Best Tech conferences in Brazil 2023 / 2024](https://github.com/best-tech-conferences/am-br-tech)
+* [Best Vue conferences in Brazil 2023 / 2024](https://github.com/best-tech-conferences/am-br-vue)
+* [Best IT conferences in Brazil 2023 / 2024](https://github.com/best-tech-conferences/am-br-it)
+* [Best Drupal conferences 2023 / 2024](https://github.com/best-tech-conferences/drupal)
+* [Best Drupal conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-drupal)
+* [Best tech conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us)
+* [Best Drupal conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-drupal)
+* [Best tech conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on)
+* [Best Tech leadership conferences 2023 / 2024](https://github.com/best-tech-conferences/leadership)
+* [Best Tech leadership conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-leadership)
+* [Best Tech conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-tech)
+* [Best IT conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-it)
+* [Best Data / Database conferences 2023 / 2024](https://github.com/best-tech-conferences/data)
+* [Best Data / Database conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-data)
+* [Best AI / ML conferences 2023 / 2024](https://github.com/best-tech-conferences/ai)
+* [Best AI / ML conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-ai)
+* [Best Data / Database conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-data)
+* [Best Tech conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-tech)
+* [Best AI / ML conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-ai)
+* [Best IT conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-it)
+* [Best Mobile conferences 2023 / 2024](https://github.com/best-tech-conferences/mobile)
+* [Best Mobile conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-mobile)
+* [Best iOS / Swift conferences 2023 / 2024](https://github.com/best-tech-conferences/ios)
+* [Best iOS / Swift conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-ios)
+* [Best Android conferences 2023 / 2024](https://github.com/best-tech-conferences/android)
+* [Best Android conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-android)
+* [Best tech conferences in France 2023 / 2024](https://github.com/best-tech-conferences/eu-fr)
+* [Best Mobile conferences in France 2023 / 2024](https://github.com/best-tech-conferences/eu-fr-mobile)
+* [Best iOS / Swift conferences in France 2023 / 2024](https://github.com/best-tech-conferences/eu-fr-ios)
+* [Best Android conferences in France 2023 / 2024](https://github.com/best-tech-conferences/eu-fr-android)
+* [Best Tech conferences in France 2023 / 2024](https://github.com/best-tech-conferences/eu-fr-tech)
+* [Best IT conferences in France 2023 / 2024](https://github.com/best-tech-conferences/eu-fr-it)
+* [Best Functional programming conferences 2023 / 2024](https://github.com/best-tech-conferences/fp)
+* [Best Functional programming conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-fp)
+* [Best Functional programming conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-fp)
+* [Best Drupal conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-drupal)
+* [Best tech conferences in Finland 2023 / 2024](https://github.com/best-tech-conferences/eu-fi)
+* [Best Drupal conferences in Finland 2023 / 2024](https://github.com/best-tech-conferences/eu-fi-drupal)
+* [Best Golang conferences 2023 / 2024](https://github.com/best-tech-conferences/golang)
+* [Best Golang conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-golang)
+* [Best Golang conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-golang)
+* [Best Product / UX conferences 2023 / 2024](https://github.com/best-tech-conferences/product)
+* [Best Product / UX conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-product)
+* [Best Product / UX conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-product)
+* [Best Mobile conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-mobile)
+* [Best iOS / Swift conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-ios)
+* [Best Android conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-android)
+* [Best Mobile conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-mobile)
+* [Best iOS / Swift conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-ios)
+* [Best Android conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-android)
+* [Best Testing / QA conferences 2023 / 2024](https://github.com/best-tech-conferences/qa)
+* [Best Testing / QA conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-qa)
+* [Best Testing / QA conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-qa)
+* [Best Agile conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-agile)
+* [Best Scrum conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-scrum)
+* [Best tech conferences in Israel 2023 / 2024](https://github.com/best-tech-conferences/as-il)
+* [Best Agile conferences in Israel 2023 / 2024](https://github.com/best-tech-conferences/as-il-agile)
+* [Best Scrum conferences in Israel 2023 / 2024](https://github.com/best-tech-conferences/as-il-scrum)
+* [Best Tech conferences in Israel 2023 / 2024](https://github.com/best-tech-conferences/as-il-tech)
+* [Best IT conferences in Israel 2023 / 2024](https://github.com/best-tech-conferences/as-il-it)
+* [Best Product / UX conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-product)
+* [Best Cybersecurity / InfoSec conferences 2023 / 2024](https://github.com/best-tech-conferences/security)
+* [Best Cybersecurity / InfoSec conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-security)
+* [Best Cybersecurity / InfoSec conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-security)
+* [Best DevOps conferences 2023 / 2024](https://github.com/best-tech-conferences/devops)
+* [Best DevOps conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-devops)
+* [Best Cloud conferences 2023 / 2024](https://github.com/best-tech-conferences/cloud)
+* [Best Cloud conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-cloud)
+* [Best Docker / Kubernetes conferences 2023 / 2024](https://github.com/best-tech-conferences/kubernetes)
+* [Best Docker / Kubernetes conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-kubernetes)
+* [Best tech conferences in Denmark 2023 / 2024](https://github.com/best-tech-conferences/eu-dk)
+* [Best DevOps conferences in Denmark 2023 / 2024](https://github.com/best-tech-conferences/eu-dk-devops)
+* [Best Cloud conferences in Denmark 2023 / 2024](https://github.com/best-tech-conferences/eu-dk-cloud)
+* [Best Docker / Kubernetes conferences in Denmark 2023 / 2024](https://github.com/best-tech-conferences/eu-dk-kubernetes)
+* [Best Tech conferences in Denmark 2023 / 2024](https://github.com/best-tech-conferences/eu-dk-tech)
+* [Best IT conferences in Denmark 2023 / 2024](https://github.com/best-tech-conferences/eu-dk-it)
+* [Best Cybersecurity / InfoSec conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-security)
+* [Best HR / Hiring / Recruiting conferences 2023 / 2024](https://github.com/best-tech-conferences/recruit)
+* [Best HR / Hiring / Recruiting conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-recruit)
+* [Best tech conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb)
+* [Best HR / Hiring / Recruiting conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-recruit)
+* [Best Tech conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-tech)
+* [Best IT conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-it)
+* [Best developer conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-fullstack)
+* [Best Software architecture conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-architecture)
+* [Best tech conferences in Greece 2023 / 2024](https://github.com/best-tech-conferences/eu-gr)
+* [Best developer conferences in Greece 2023 / 2024](https://github.com/best-tech-conferences/eu-gr-fullstack)
+* [Best Software architecture conferences in Greece 2023 / 2024](https://github.com/best-tech-conferences/eu-gr-architecture)
+* [Best Tech conferences in Greece 2023 / 2024](https://github.com/best-tech-conferences/eu-gr-tech)
+* [Best IT conferences in Greece 2023 / 2024](https://github.com/best-tech-conferences/eu-gr-it)
+* [Best Java conferences 2023 / 2024](https://github.com/best-tech-conferences/java)
+* [Best Java conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-java)
+* [Best Kotlin conferences 2023 / 2024](https://github.com/best-tech-conferences/kotlin)
+* [Best Kotlin conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-kotlin)
+* [Best Scala conferences 2023 / 2024](https://github.com/best-tech-conferences/scala)
+* [Best Scala conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-scala)
+* [Best Java conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-java)
+* [Best Kotlin conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-kotlin)
+* [Best Scala conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-scala)
+* [Best Data / Database conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-data)
+* [Best AI / ML conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-ai)
+* [Best tech conferences in Singapore 2023 / 2024](https://github.com/best-tech-conferences/as-sg)
+* [Best Data / Database conferences in Singapore 2023 / 2024](https://github.com/best-tech-conferences/as-sg-data)
+* [Best AI / ML conferences in Singapore 2023 / 2024](https://github.com/best-tech-conferences/as-sg-ai)
+* [Best Tech conferences in Singapore 2023 / 2024](https://github.com/best-tech-conferences/as-sg-tech)
+* [Best IT conferences in Singapore 2023 / 2024](https://github.com/best-tech-conferences/as-sg-it)
+* [Best Mobile conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-mobile)
+* [Best iOS / Swift conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-ios)
+* [Best Android conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-android)
+* [Best Mobile conferences in Italy 2023 / 2024](https://github.com/best-tech-conferences/eu-it-mobile)
+* [Best iOS / Swift conferences in Italy 2023 / 2024](https://github.com/best-tech-conferences/eu-it-ios)
+* [Best Android conferences in Italy 2023 / 2024](https://github.com/best-tech-conferences/eu-it-android)
+* [Best Tech conferences in Italy 2023 / 2024](https://github.com/best-tech-conferences/eu-it-tech)
+* [Best IT conferences in Italy 2023 / 2024](https://github.com/best-tech-conferences/eu-it-it)
+* [Best Cybersecurity / InfoSec conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-security)
+* [Best Cybersecurity / InfoSec conferences in Finland 2023 / 2024](https://github.com/best-tech-conferences/eu-fi-security)
+* [Best Tech conferences in Finland 2023 / 2024](https://github.com/best-tech-conferences/eu-fi-tech)
+* [Best IT conferences in Finland 2023 / 2024](https://github.com/best-tech-conferences/eu-fi-it)
+* [Best Product / UX conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-product)
+* [Best Product / UX conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-product)
+* [Best Java conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-java)
+* [Best Kotlin conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-kotlin)
+* [Best Scala conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-scala)
+* [Best tech conferences in Turkey 2023 / 2024](https://github.com/best-tech-conferences/as-tr)
+* [Best Java conferences in Turkey 2023 / 2024](https://github.com/best-tech-conferences/as-tr-java)
+* [Best Kotlin conferences in Turkey 2023 / 2024](https://github.com/best-tech-conferences/as-tr-kotlin)
+* [Best Scala conferences in Turkey 2023 / 2024](https://github.com/best-tech-conferences/as-tr-scala)
+* [Best Tech conferences in Turkey 2023 / 2024](https://github.com/best-tech-conferences/as-tr-tech)
+* [Best IT conferences in Turkey 2023 / 2024](https://github.com/best-tech-conferences/as-tr-it)
+* [Best JavaScript conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-javascript)
+* [Best Web / Frontend conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-web)
+* [Best React conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-react)
+* [Best Vue conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-vue)
+* [Best TypeScript conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-typescript)
+* [Best C/C++ conferences 2023 / 2024](https://github.com/best-tech-conferences/cpp)
+* [Best C/C++ conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-cpp)
+* [Best C/C++ conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-cpp)
+* [Best Scrum conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-scrum)
+* [Best Agile conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-agile)
+* [Best Scrum conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-scrum)
+* [Best Agile conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-agile)
+* [Best Cloud conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-cloud)
+* [Best DevOps conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-devops)
+* [Best Docker / Kubernetes conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-kubernetes)
+* [Best Cloud conferences in India 2023 / 2024](https://github.com/best-tech-conferences/as-in-cloud)
+* [Best DevOps conferences in India 2023 / 2024](https://github.com/best-tech-conferences/as-in-devops)
+* [Best Docker / Kubernetes conferences in India 2023 / 2024](https://github.com/best-tech-conferences/as-in-kubernetes)
+* [Best Java conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-java)
+* [Best Kotlin conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-kotlin)
+* [Best Scala conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-scala)
+* [Best Linux / OS conferences 2023 / 2024](https://github.com/best-tech-conferences/linux)
+* [Best Linux / OS conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-linux)
+* [Best tech conferences in Canada 2023 / 2024](https://github.com/best-tech-conferences/am-ca)
+* [Best Linux / OS conferences in Canada 2023 / 2024](https://github.com/best-tech-conferences/am-ca-linux)
+* [Best Tech conferences in Canada 2023 / 2024](https://github.com/best-tech-conferences/am-ca-tech)
+* [Best IT conferences in Canada 2023 / 2024](https://github.com/best-tech-conferences/am-ca-it)
+* [Best Cloud conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-cloud)
+* [Best DevOps conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-devops)
+* [Best Docker / Kubernetes conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-kubernetes)
+* [Best Cloud conferences in Canada 2023 / 2024](https://github.com/best-tech-conferences/am-ca-cloud)
+* [Best DevOps conferences in Canada 2023 / 2024](https://github.com/best-tech-conferences/am-ca-devops)
+* [Best Docker / Kubernetes conferences in Canada 2023 / 2024](https://github.com/best-tech-conferences/am-ca-kubernetes)
+* [Best tech conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl)
+* [Best Mobile conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl-mobile)
+* [Best iOS / Swift conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl-ios)
+* [Best Android conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl-android)
+* [Best Tech conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl-tech)
+* [Best IT conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl-it)
+* [Best Cybersecurity / InfoSec conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-security)
+* [Best Cybersecurity / InfoSec conferences in Singapore 2023 / 2024](https://github.com/best-tech-conferences/as-sg-security)
+* [Best Hardware / IoT conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-iot)
+* [Best Hardware / IoT conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-iot)
+* [Best JavaScript conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-javascript)
+* [Best Web / Frontend conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-web)
+* [Best React conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-react)
+* [Best TypeScript conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-typescript)
+* [Best Vue conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-vue)
+* [Best JavaScript conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-javascript)
+* [Best Web / Frontend conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-web)
+* [Best React conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-react)
+* [Best TypeScript conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-typescript)
+* [Best Vue conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-vue)
+* [Best tech conferences in Poland 2023 / 2024](https://github.com/best-tech-conferences/eu-pl)
+* [Best JavaScript conferences in Poland 2023 / 2024](https://github.com/best-tech-conferences/eu-pl-javascript)
+* [Best Web / Frontend conferences in Poland 2023 / 2024](https://github.com/best-tech-conferences/eu-pl-web)
+* [Best React conferences in Poland 2023 / 2024](https://github.com/best-tech-conferences/eu-pl-react)
+* [Best TypeScript conferences in Poland 2023 / 2024](https://github.com/best-tech-conferences/eu-pl-typescript)
+* [Best Tech conferences in Poland 2023 / 2024](https://github.com/best-tech-conferences/eu-pl-tech)
+* [Best Vue conferences in Poland 2023 / 2024](https://github.com/best-tech-conferences/eu-pl-vue)
+* [Best IT conferences in Poland 2023 / 2024](https://github.com/best-tech-conferences/eu-pl-it)
+* [Best AR / VR / XR conferences 2023 / 2024](https://github.com/best-tech-conferences/vr)
+* [Best AR / VR / XR conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-vr)
+* [Best tech conferences in China 2023 / 2024](https://github.com/best-tech-conferences/as-cn)
+* [Best AR / VR / XR conferences in China 2023 / 2024](https://github.com/best-tech-conferences/as-cn-vr)
+* [Best Tech conferences in China 2023 / 2024](https://github.com/best-tech-conferences/as-cn-tech)
+* [Best IT conferences in China 2023 / 2024](https://github.com/best-tech-conferences/as-cn-it)
+* [Best Blockchain conferences 2023 / 2024](https://github.com/best-tech-conferences/blockchain)
+* [Best Blockchain conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-blockchain)
+* [Best Fintech conferences 2023 / 2024](https://github.com/best-tech-conferences/fintech)
+* [Best Fintech conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-fintech)
+* [Best Blockchain conferences in Turkey 2023 / 2024](https://github.com/best-tech-conferences/as-tr-blockchain)
+* [Best Fintech conferences in Turkey 2023 / 2024](https://github.com/best-tech-conferences/as-tr-fintech)
+* [Best tech conferences in United Arab Emirates 2023 / 2024](https://github.com/best-tech-conferences/as-ae)
+* [Best Blockchain conferences in United Arab Emirates 2023 / 2024](https://github.com/best-tech-conferences/as-ae-blockchain)
+* [Best Fintech conferences in United Arab Emirates 2023 / 2024](https://github.com/best-tech-conferences/as-ae-fintech)
+* [Best Tech conferences in United Arab Emirates 2023 / 2024](https://github.com/best-tech-conferences/as-ae-tech)
+* [Best IT conferences in United Arab Emirates 2023 / 2024](https://github.com/best-tech-conferences/as-ae-it)
+* [Best developer conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-fullstack)
+* [Best Software architecture conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-architecture)
+* [Best Fintech conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-fintech)
+* [Best Fintech conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-fintech)
+* [Best tech conferences in Africa 2023 / 2024](https://github.com/best-tech-conferences/af)
+* [Best Fintech conferences in Africa 2023 / 2024](https://github.com/best-tech-conferences/af-fintech)
+* [Best Tech conferences in Africa 2023 / 2024](https://github.com/best-tech-conferences/af-tech)
+* [Best IT conferences in Africa 2023 / 2024](https://github.com/best-tech-conferences/af-it)
+* [Best tech conferences in Nigeria 2023 / 2024](https://github.com/best-tech-conferences/af-ng)
+* [Best Fintech conferences in Nigeria 2023 / 2024](https://github.com/best-tech-conferences/af-ng-fintech)
+* [Best Tech conferences in Nigeria 2023 / 2024](https://github.com/best-tech-conferences/af-ng-tech)
+* [Best IT conferences in Nigeria 2023 / 2024](https://github.com/best-tech-conferences/af-ng-it)
+* [Best HR / Hiring / Recruiting conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-recruit)
+* [Best HR / Hiring / Recruiting conferences in Singapore 2023 / 2024](https://github.com/best-tech-conferences/as-sg-recruit)
+* [Best HR / Hiring / Recruiting conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl-recruit)
+* [Best Java conferences in Africa 2023 / 2024](https://github.com/best-tech-conferences/af-java)
+* [Best Kotlin conferences in Africa 2023 / 2024](https://github.com/best-tech-conferences/af-kotlin)
+* [Best Scala conferences in Africa 2023 / 2024](https://github.com/best-tech-conferences/af-scala)
+* [Best tech conferences in South Africa 2023 / 2024](https://github.com/best-tech-conferences/af-za)
+* [Best Java conferences in South Africa 2023 / 2024](https://github.com/best-tech-conferences/af-za-java)
+* [Best Kotlin conferences in South Africa 2023 / 2024](https://github.com/best-tech-conferences/af-za-kotlin)
+* [Best Scala conferences in South Africa 2023 / 2024](https://github.com/best-tech-conferences/af-za-scala)
+* [Best Tech conferences in South Africa 2023 / 2024](https://github.com/best-tech-conferences/af-za-tech)
+* [Best IT conferences in South Africa 2023 / 2024](https://github.com/best-tech-conferences/af-za-it)
+* [Best Data / Database conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-data)
+* [Best AI / ML conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-ai)
+* [Best tech conferences in Spain 2023 / 2024](https://github.com/best-tech-conferences/eu-es)
+* [Best Data / Database conferences in Spain 2023 / 2024](https://github.com/best-tech-conferences/eu-es-data)
+* [Best Tech conferences in Spain 2023 / 2024](https://github.com/best-tech-conferences/eu-es-tech)
+* [Best AI / ML conferences in Spain 2023 / 2024](https://github.com/best-tech-conferences/eu-es-ai)
+* [Best IT conferences in Spain 2023 / 2024](https://github.com/best-tech-conferences/eu-es-it)
+* [Best Cybersecurity / InfoSec conferences in Canada 2023 / 2024](https://github.com/best-tech-conferences/am-ca-security)
+* [Best C/C++ conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-cpp)
+* [Best tech conferences in Sweden 2023 / 2024](https://github.com/best-tech-conferences/eu-se)
+* [Best Data / Database conferences in Sweden 2023 / 2024](https://github.com/best-tech-conferences/eu-se-data)
+* [Best Tech conferences in Sweden 2023 / 2024](https://github.com/best-tech-conferences/eu-se-tech)
+* [Best AI / ML conferences in Sweden 2023 / 2024](https://github.com/best-tech-conferences/eu-se-ai)
+* [Best IT conferences in Sweden 2023 / 2024](https://github.com/best-tech-conferences/eu-se-it)
+* [Best Product / UX conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-product)
+* [Best Cloud conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-cloud)
+* [Best DevOps conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-devops)
+* [Best Docker / Kubernetes conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-kubernetes)
+* [Best tech conferences in Nepal 2023 / 2024](https://github.com/best-tech-conferences/as-np)
+* [Best Data / Database conferences in Nepal 2023 / 2024](https://github.com/best-tech-conferences/as-np-data)
+* [Best Tech conferences in Nepal 2023 / 2024](https://github.com/best-tech-conferences/as-np-tech)
+* [Best AI / ML conferences in Nepal 2023 / 2024](https://github.com/best-tech-conferences/as-np-ai)
+* [Best IT conferences in Nepal 2023 / 2024](https://github.com/best-tech-conferences/as-np-it)
+* [Best Ruby conferences 2023 / 2024](https://github.com/best-tech-conferences/ruby)
+* [Best Ruby conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-ruby)
+* [Best tech conferences in Japan 2023 / 2024](https://github.com/best-tech-conferences/as-jp)
+* [Best Ruby conferences in Japan 2023 / 2024](https://github.com/best-tech-conferences/as-jp-ruby)
+* [Best Tech conferences in Japan 2023 / 2024](https://github.com/best-tech-conferences/as-jp-tech)
+* [Best IT conferences in Japan 2023 / 2024](https://github.com/best-tech-conferences/as-jp-it)
+* [Best Cybersecurity / InfoSec conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-security)
+* [Best Hardware / IoT conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-iot)
+* [Best Blockchain conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-blockchain)
+* [Best Fintech conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-fintech)
+* [Best tech conferences in Oceania 2023 / 2024](https://github.com/best-tech-conferences/oc)
+* [Best Testing / QA conferences in Oceania 2023 / 2024](https://github.com/best-tech-conferences/oc-qa)
+* [Best Tech conferences in Oceania 2023 / 2024](https://github.com/best-tech-conferences/oc-tech)
+* [Best IT conferences in Oceania 2023 / 2024](https://github.com/best-tech-conferences/oc-it)
+* [Best tech conferences in Australia 2023 / 2024](https://github.com/best-tech-conferences/oc-au)
+* [Best Testing / QA conferences in Australia 2023 / 2024](https://github.com/best-tech-conferences/oc-au-qa)
+* [Best Tech conferences in Australia 2023 / 2024](https://github.com/best-tech-conferences/oc-au-tech)
+* [Best IT conferences in Australia 2023 / 2024](https://github.com/best-tech-conferences/oc-au-it)
+* [Best developer conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-fullstack)
+* [Best Software architecture conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-architecture)
+* [Best developer conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-fullstack)
+* [Best Software architecture conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-architecture)
+* [Best PHP conferences 2023 / 2024](https://github.com/best-tech-conferences/php)
+* [Best PHP conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-php)
+* [Best Laravel conferences 2023 / 2024](https://github.com/best-tech-conferences/laravel)
+* [Best Laravel conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-laravel)
+* [Best Wordpress conferences 2023 / 2024](https://github.com/best-tech-conferences/wordpress)
+* [Best Wordpress conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-wordpress)
+* [Best PHP conferences in France 2023 / 2024](https://github.com/best-tech-conferences/eu-fr-php)
+* [Best Drupal conferences in France 2023 / 2024](https://github.com/best-tech-conferences/eu-fr-drupal)
+* [Best Laravel conferences in France 2023 / 2024](https://github.com/best-tech-conferences/eu-fr-laravel)
+* [Best Wordpress conferences in France 2023 / 2024](https://github.com/best-tech-conferences/eu-fr-wordpress)
+* [Best tech conferences in Belgium 2023 / 2024](https://github.com/best-tech-conferences/eu-be)
+* [Best JavaScript conferences in Belgium 2023 / 2024](https://github.com/best-tech-conferences/eu-be-javascript)
+* [Best Web / Frontend conferences in Belgium 2023 / 2024](https://github.com/best-tech-conferences/eu-be-web)
+* [Best React conferences in Belgium 2023 / 2024](https://github.com/best-tech-conferences/eu-be-react)
+* [Best TypeScript conferences in Belgium 2023 / 2024](https://github.com/best-tech-conferences/eu-be-typescript)
+* [Best Tech conferences in Belgium 2023 / 2024](https://github.com/best-tech-conferences/eu-be-tech)
+* [Best Vue conferences in Belgium 2023 / 2024](https://github.com/best-tech-conferences/eu-be-vue)
+* [Best IT conferences in Belgium 2023 / 2024](https://github.com/best-tech-conferences/eu-be-it)
+* [Best Elixir conferences 2023 / 2024](https://github.com/best-tech-conferences/elixir)
+* [Best Elixir conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-elixir)
+* [Best Functional programming conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-fp)
+* [Best Elixir conferences in Sweden 2023 / 2024](https://github.com/best-tech-conferences/eu-se-elixir)
+* [Best Functional programming conferences in Sweden 2023 / 2024](https://github.com/best-tech-conferences/eu-se-fp)
+* [Best Drupal conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-drupal)
+* [Best PHP conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-php)
+* [Best Laravel conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-laravel)
+* [Best Vue conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-vue)
+* [Best JavaScript conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-javascript)
+* [Best Web / Frontend conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-web)
+* [Best React conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-react)
+* [Best TypeScript conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-typescript)
+* [Best Drupal conferences in Poland 2023 / 2024](https://github.com/best-tech-conferences/eu-pl-drupal)
+* [Best PHP conferences in Poland 2023 / 2024](https://github.com/best-tech-conferences/eu-pl-php)
+* [Best Laravel conferences in Poland 2023 / 2024](https://github.com/best-tech-conferences/eu-pl-laravel)
+* [Best Wordpress conferences in Poland 2023 / 2024](https://github.com/best-tech-conferences/eu-pl-wordpress)
+* [Best Game dev conferences 2023 / 2024](https://github.com/best-tech-conferences/game)
+* [Best Game dev conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-game)
+* [Best Game dev conferences in Poland 2023 / 2024](https://github.com/best-tech-conferences/eu-pl-game)
+* [Best tech conferences in Czech Republic 2023 / 2024](https://github.com/best-tech-conferences/eu-cz)
+* [Best Agile conferences in Czech Republic 2023 / 2024](https://github.com/best-tech-conferences/eu-cz-agile)
+* [Best Scrum conferences in Czech Republic 2023 / 2024](https://github.com/best-tech-conferences/eu-cz-scrum)
+* [Best Tech conferences in Czech Republic 2023 / 2024](https://github.com/best-tech-conferences/eu-cz-tech)
+* [Best IT conferences in Czech Republic 2023 / 2024](https://github.com/best-tech-conferences/eu-cz-it)
+* [Best Data / Database conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-data)
+* [Best AI / ML conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-ai)
+* [Best DevOps conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl-devops)
+* [Best Cloud conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl-cloud)
+* [Best Docker / Kubernetes conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl-kubernetes)
+* [Best PHP conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-php)
+* [Best Laravel conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-laravel)
+* [Best Wordpress conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-wordpress)
+* [Best PHP conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-php)
+* [Best Laravel conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-laravel)
+* [Best Wordpress conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-wordpress)
+* [Best Drupal conferences in Oceania 2023 / 2024](https://github.com/best-tech-conferences/oc-drupal)
+* [Best PHP conferences in Oceania 2023 / 2024](https://github.com/best-tech-conferences/oc-php)
+* [Best Laravel conferences in Oceania 2023 / 2024](https://github.com/best-tech-conferences/oc-laravel)
+* [Best tech conferences in New Zealand 2023 / 2024](https://github.com/best-tech-conferences/oc-nz)
+* [Best Drupal conferences in New Zealand 2023 / 2024](https://github.com/best-tech-conferences/oc-nz-drupal)
+* [Best PHP conferences in New Zealand 2023 / 2024](https://github.com/best-tech-conferences/oc-nz-php)
+* [Best Tech conferences in New Zealand 2023 / 2024](https://github.com/best-tech-conferences/oc-nz-tech)
+* [Best Laravel conferences in New Zealand 2023 / 2024](https://github.com/best-tech-conferences/oc-nz-laravel)
+* [Best IT conferences in New Zealand 2023 / 2024](https://github.com/best-tech-conferences/oc-nz-it)
+* [Best Hardware / IoT conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-iot)
+* [Best Hardware / IoT conferences in China 2023 / 2024](https://github.com/best-tech-conferences/as-cn-iot)
+* [Best Python conferences 2023 / 2024](https://github.com/best-tech-conferences/python)
+* [Best Python conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-python)
+* [Best tech conferences in Lithuania 2023 / 2024](https://github.com/best-tech-conferences/eu-lt)
+* [Best Python conferences in Lithuania 2023 / 2024](https://github.com/best-tech-conferences/eu-lt-python)
+* [Best Tech conferences in Lithuania 2023 / 2024](https://github.com/best-tech-conferences/eu-lt-tech)
+* [Best IT conferences in Lithuania 2023 / 2024](https://github.com/best-tech-conferences/eu-lt-it)
+* [Best Cybersecurity / InfoSec conferences in Czech Republic 2023 / 2024](https://github.com/best-tech-conferences/eu-cz-security)
+* [Best Data / Database conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl-data)
+* [Best AI / ML conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl-ai)
+* [Best Agile conferences in Poland 2023 / 2024](https://github.com/best-tech-conferences/eu-pl-agile)
+* [Best Scrum conferences in Poland 2023 / 2024](https://github.com/best-tech-conferences/eu-pl-scrum)
+* [Best Data / Database conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-data)
+* [Best AI / ML conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-ai)
+* [Best tech conferences in Hungary 2023 / 2024](https://github.com/best-tech-conferences/eu-hu)
+* [Best developer conferences in Hungary 2023 / 2024](https://github.com/best-tech-conferences/eu-hu-fullstack)
+* [Best Software architecture conferences in Hungary 2023 / 2024](https://github.com/best-tech-conferences/eu-hu-architecture)
+* [Best Tech conferences in Hungary 2023 / 2024](https://github.com/best-tech-conferences/eu-hu-tech)
+* [Best IT conferences in Hungary 2023 / 2024](https://github.com/best-tech-conferences/eu-hu-it)
+* [Best tech conferences in Romania 2023 / 2024](https://github.com/best-tech-conferences/eu-ro)
+* [Best JavaScript conferences in Romania 2023 / 2024](https://github.com/best-tech-conferences/eu-ro-javascript)
+* [Best Web / Frontend conferences in Romania 2023 / 2024](https://github.com/best-tech-conferences/eu-ro-web)
+* [Best React conferences in Romania 2023 / 2024](https://github.com/best-tech-conferences/eu-ro-react)
+* [Best TypeScript conferences in Romania 2023 / 2024](https://github.com/best-tech-conferences/eu-ro-typescript)
+* [Best Tech conferences in Romania 2023 / 2024](https://github.com/best-tech-conferences/eu-ro-tech)
+* [Best Vue conferences in Romania 2023 / 2024](https://github.com/best-tech-conferences/eu-ro-vue)
+* [Best IT conferences in Romania 2023 / 2024](https://github.com/best-tech-conferences/eu-ro-it)
+* [Best PHP conferences in Italy 2023 / 2024](https://github.com/best-tech-conferences/eu-it-php)
+* [Best Drupal conferences in Italy 2023 / 2024](https://github.com/best-tech-conferences/eu-it-drupal)
+* [Best Laravel conferences in Italy 2023 / 2024](https://github.com/best-tech-conferences/eu-it-laravel)
+* [Best Wordpress conferences in Italy 2023 / 2024](https://github.com/best-tech-conferences/eu-it-wordpress)
+* [Best Java conferences in Spain 2023 / 2024](https://github.com/best-tech-conferences/eu-es-java)
+* [Best Kotlin conferences in Spain 2023 / 2024](https://github.com/best-tech-conferences/eu-es-kotlin)
+* [Best Scala conferences in Spain 2023 / 2024](https://github.com/best-tech-conferences/eu-es-scala)
+* [Best tech conferences in Russia 2023 / 2024](https://github.com/best-tech-conferences/eu-ru)
+* [Best Mobile conferences in Russia 2023 / 2024](https://github.com/best-tech-conferences/eu-ru-mobile)
+* [Best iOS / Swift conferences in Russia 2023 / 2024](https://github.com/best-tech-conferences/eu-ru-ios)
+* [Best Android conferences in Russia 2023 / 2024](https://github.com/best-tech-conferences/eu-ru-android)
+* [Best Tech conferences in Russia 2023 / 2024](https://github.com/best-tech-conferences/eu-ru-tech)
+* [Best IT conferences in Russia 2023 / 2024](https://github.com/best-tech-conferences/eu-ru-it)
+* [Best Testing / QA conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-qa)
+* [Best Testing / QA conferences in Russia 2023 / 2024](https://github.com/best-tech-conferences/eu-ru-qa)
+* [Best Testing / QA conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-qa)
+* [Best Data / Database conferences in Japan 2023 / 2024](https://github.com/best-tech-conferences/as-jp-data)
+* [Best AI / ML conferences in Japan 2023 / 2024](https://github.com/best-tech-conferences/as-jp-ai)
+* [Best JavaScript conferences in Russia 2023 / 2024](https://github.com/best-tech-conferences/eu-ru-javascript)
+* [Best Web / Frontend conferences in Russia 2023 / 2024](https://github.com/best-tech-conferences/eu-ru-web)
+* [Best React conferences in Russia 2023 / 2024](https://github.com/best-tech-conferences/eu-ru-react)
+* [Best TypeScript conferences in Russia 2023 / 2024](https://github.com/best-tech-conferences/eu-ru-typescript)
+* [Best Vue conferences in Russia 2023 / 2024](https://github.com/best-tech-conferences/eu-ru-vue)
+* [Best DevOps conferences in Czech Republic 2023 / 2024](https://github.com/best-tech-conferences/eu-cz-devops)
+* [Best Cloud conferences in Czech Republic 2023 / 2024](https://github.com/best-tech-conferences/eu-cz-cloud)
+* [Best Docker / Kubernetes conferences in Czech Republic 2023 / 2024](https://github.com/best-tech-conferences/eu-cz-kubernetes)
+* [Best Wordpress conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-wordpress)
+* [Best tech conferences in Norway 2023 / 2024](https://github.com/best-tech-conferences/eu-no)
+* [Best developer conferences in Norway 2023 / 2024](https://github.com/best-tech-conferences/eu-no-fullstack)
+* [Best Software architecture conferences in Norway 2023 / 2024](https://github.com/best-tech-conferences/eu-no-architecture)
+* [Best Tech conferences in Norway 2023 / 2024](https://github.com/best-tech-conferences/eu-no-tech)
+* [Best IT conferences in Norway 2023 / 2024](https://github.com/best-tech-conferences/eu-no-it)
+* [Best C/C++ conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-cpp)
+* [Best C/C++ conferences in Russia 2023 / 2024](https://github.com/best-tech-conferences/eu-ru-cpp)
+* [Best developer conferences in Africa 2023 / 2024](https://github.com/best-tech-conferences/af-fullstack)
+* [Best Software architecture conferences in Africa 2023 / 2024](https://github.com/best-tech-conferences/af-architecture)
+* [Best developer conferences in South Africa 2023 / 2024](https://github.com/best-tech-conferences/af-za-fullstack)
+* [Best Software architecture conferences in South Africa 2023 / 2024](https://github.com/best-tech-conferences/af-za-architecture)
+* [Best Testing / QA conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-qa)
+* [Best Game dev conferences in Sweden 2023 / 2024](https://github.com/best-tech-conferences/eu-se-game)
+* [Best developer conferences in Belgium 2023 / 2024](https://github.com/best-tech-conferences/eu-be-fullstack)
+* [Best Software architecture conferences in Belgium 2023 / 2024](https://github.com/best-tech-conferences/eu-be-architecture)
+* [Best developer conferences in Romania 2023 / 2024](https://github.com/best-tech-conferences/eu-ro-fullstack)
+* [Best Software architecture conferences in Romania 2023 / 2024](https://github.com/best-tech-conferences/eu-ro-architecture)
+* [Best HR / Hiring / Recruiting conferences in Denmark 2023 / 2024](https://github.com/best-tech-conferences/eu-dk-recruit)
+* [Best tech conferences in Estonia 2023 / 2024](https://github.com/best-tech-conferences/eu-ee)
+* [Best Product / UX conferences in Estonia 2023 / 2024](https://github.com/best-tech-conferences/eu-ee-product)
+* [Best Tech conferences in Estonia 2023 / 2024](https://github.com/best-tech-conferences/eu-ee-tech)
+* [Best IT conferences in Estonia 2023 / 2024](https://github.com/best-tech-conferences/eu-ee-it)
+* [Best Testing / QA conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl-qa)
+* [Best developer conferences in Lithuania 2023 / 2024](https://github.com/best-tech-conferences/eu-lt-fullstack)
+* [Best Software architecture conferences in Lithuania 2023 / 2024](https://github.com/best-tech-conferences/eu-lt-architecture)
+* [Best developer conferences in Sweden 2023 / 2024](https://github.com/best-tech-conferences/eu-se-fullstack)
+* [Best Software architecture conferences in Sweden 2023 / 2024](https://github.com/best-tech-conferences/eu-se-architecture)
+* [Best Cybersecurity / InfoSec conferences in Sweden 2023 / 2024](https://github.com/best-tech-conferences/eu-se-security)
+* [Best Python conferences in Italy 2023 / 2024](https://github.com/best-tech-conferences/eu-it-python)
+* [Best .NET conferences 2023 / 2024](https://github.com/best-tech-conferences/dotnet)
+* [Best .NET conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-dotnet)
+* [Best .NET conferences in Spain 2023 / 2024](https://github.com/best-tech-conferences/eu-es-dotnet)
+* [Best Blockchain conferences in Singapore 2023 / 2024](https://github.com/best-tech-conferences/as-sg-blockchain)
+* [Best Fintech conferences in Singapore 2023 / 2024](https://github.com/best-tech-conferences/as-sg-fintech)
+* [Best Software architecture conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-architecture)
+* [Best developer conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-fullstack)
+* [Best .NET conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-dotnet)
+* [Best tech conferences in Taiwan 2023 / 2024](https://github.com/best-tech-conferences/as-tw)
+* [Best Tech conferences in Taiwan 2023 / 2024](https://github.com/best-tech-conferences/as-tw-tech)
+* [Best IT conferences in Taiwan 2023 / 2024](https://github.com/best-tech-conferences/as-tw-it)
+* [Best Data / Database conferences in Canada 2023 / 2024](https://github.com/best-tech-conferences/am-ca-data)
+* [Best AI / ML conferences in Canada 2023 / 2024](https://github.com/best-tech-conferences/am-ca-ai)
+* [Best Mobile conferences in Poland 2023 / 2024](https://github.com/best-tech-conferences/eu-pl-mobile)
+* [Best iOS / Swift conferences in Poland 2023 / 2024](https://github.com/best-tech-conferences/eu-pl-ios)
+* [Best Android conferences in Poland 2023 / 2024](https://github.com/best-tech-conferences/eu-pl-android)
+* [Best AR / VR / XR conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-vr)
+* [Best AR / VR / XR conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-vr)
+* [Best developer conferences in Poland 2023 / 2024](https://github.com/best-tech-conferences/eu-pl-fullstack)
+* [Best Software architecture conferences in Poland 2023 / 2024](https://github.com/best-tech-conferences/eu-pl-architecture)
+* [Best tech conferences in Ireland 2023 / 2024](https://github.com/best-tech-conferences/eu-ie)
+* [Best Tech conferences in Ireland 2023 / 2024](https://github.com/best-tech-conferences/eu-ie-tech)
+* [Best IT conferences in Ireland 2023 / 2024](https://github.com/best-tech-conferences/eu-ie-it)
+* [Best tech conferences in Austria 2023 / 2024](https://github.com/best-tech-conferences/eu-at)
+* [Best developer conferences in Austria 2023 / 2024](https://github.com/best-tech-conferences/eu-at-fullstack)
+* [Best Software architecture conferences in Austria 2023 / 2024](https://github.com/best-tech-conferences/eu-at-architecture)
+* [Best Tech conferences in Austria 2023 / 2024](https://github.com/best-tech-conferences/eu-at-tech)
+* [Best IT conferences in Austria 2023 / 2024](https://github.com/best-tech-conferences/eu-at-it)
+* [Best Drupal conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl-drupal)
+* [Best PHP conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl-php)
+* [Best Laravel conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl-laravel)
+* [Best tech conferences in Slovenia 2023 / 2024](https://github.com/best-tech-conferences/eu-si)
+* [Best Java conferences in Slovenia 2023 / 2024](https://github.com/best-tech-conferences/eu-si-java)
+* [Best Kotlin conferences in Slovenia 2023 / 2024](https://github.com/best-tech-conferences/eu-si-kotlin)
+* [Best Scala conferences in Slovenia 2023 / 2024](https://github.com/best-tech-conferences/eu-si-scala)
+* [Best Tech conferences in Slovenia 2023 / 2024](https://github.com/best-tech-conferences/eu-si-tech)
+* [Best IT conferences in Slovenia 2023 / 2024](https://github.com/best-tech-conferences/eu-si-it)
+* [Best JavaScript conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl-javascript)
+* [Best Web / Frontend conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl-web)
+* [Best React conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl-react)
+* [Best TypeScript conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl-typescript)
+* [Best Vue conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl-vue)
+* [Best tech conferences in Mexico 2023 / 2024](https://github.com/best-tech-conferences/am-mx)
+* [Best Data / Database conferences in Mexico 2023 / 2024](https://github.com/best-tech-conferences/am-mx-data)
+* [Best AI / ML conferences in Mexico 2023 / 2024](https://github.com/best-tech-conferences/am-mx-ai)
+* [Best Tech conferences in Mexico 2023 / 2024](https://github.com/best-tech-conferences/am-mx-tech)
+* [Best IT conferences in Mexico 2023 / 2024](https://github.com/best-tech-conferences/am-mx-it)
+* [Best Ruby conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-ruby)
+* [Best Ruby conferences in Greece 2023 / 2024](https://github.com/best-tech-conferences/eu-gr-ruby)
+* [Best tech conferences in Hong Kong 2023 / 2024](https://github.com/best-tech-conferences/as-hk)
+* [Best Data / Database conferences in Hong Kong 2023 / 2024](https://github.com/best-tech-conferences/as-hk-data)
+* [Best Tech conferences in Hong Kong 2023 / 2024](https://github.com/best-tech-conferences/as-hk-tech)
+* [Best Fintech conferences in Hong Kong 2023 / 2024](https://github.com/best-tech-conferences/as-hk-fintech)
+* [Best AI / ML conferences in Hong Kong 2023 / 2024](https://github.com/best-tech-conferences/as-hk-ai)
+* [Best IT conferences in Hong Kong 2023 / 2024](https://github.com/best-tech-conferences/as-hk-it)
+* [Best Golang conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-golang)
+* [Best JavaScript conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-javascript)
+* [Best Web / Frontend conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-web)
+* [Best React conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-react)
+* [Best TypeScript conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-typescript)
+* [Best Vue conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-vue)
+* [Best JavaScript conferences in India 2023 / 2024](https://github.com/best-tech-conferences/as-in-javascript)
+* [Best Web / Frontend conferences in India 2023 / 2024](https://github.com/best-tech-conferences/as-in-web)
+* [Best React conferences in India 2023 / 2024](https://github.com/best-tech-conferences/as-in-react)
+* [Best TypeScript conferences in India 2023 / 2024](https://github.com/best-tech-conferences/as-in-typescript)
+* [Best Vue conferences in India 2023 / 2024](https://github.com/best-tech-conferences/as-in-vue)
+* [Best Data / Database conferences in Czech Republic 2023 / 2024](https://github.com/best-tech-conferences/eu-cz-data)
+* [Best AI / ML conferences in Czech Republic 2023 / 2024](https://github.com/best-tech-conferences/eu-cz-ai)
+* [Best tech conferences in Croatia 2023 / 2024](https://github.com/best-tech-conferences/eu-hr)
+* [Best Data / Database conferences in Croatia 2023 / 2024](https://github.com/best-tech-conferences/eu-hr-data)
+* [Best Tech conferences in Croatia 2023 / 2024](https://github.com/best-tech-conferences/eu-hr-tech)
+* [Best AI / ML conferences in Croatia 2023 / 2024](https://github.com/best-tech-conferences/eu-hr-ai)
+* [Best IT conferences in Croatia 2023 / 2024](https://github.com/best-tech-conferences/eu-hr-it)
+* [Best Scala conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-scala)
+* [Best Java conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-java)
+* [Best Kotlin conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-kotlin)
+* [Best Scala conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-scala)
+* [Best Java conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-java)
+* [Best Kotlin conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-kotlin)
+* [Best Software architecture conferences in Finland 2023 / 2024](https://github.com/best-tech-conferences/eu-fi-architecture)
+* [Best developer conferences in Finland 2023 / 2024](https://github.com/best-tech-conferences/eu-fi-fullstack)
+* [Best Cybersecurity / InfoSec conferences in Poland 2023 / 2024](https://github.com/best-tech-conferences/eu-pl-security)
+* [Best C/C++ conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-cpp)
+* [Best C/C++ conferences in Israel 2023 / 2024](https://github.com/best-tech-conferences/as-il-cpp)
+* [Best Cloud conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-cloud)
+* [Best Functional programming conferences in Poland 2023 / 2024](https://github.com/best-tech-conferences/eu-pl-fp)
+* [Best Web / Frontend conferences in Finland 2023 / 2024](https://github.com/best-tech-conferences/eu-fi-web)
+* [Best JavaScript conferences in Finland 2023 / 2024](https://github.com/best-tech-conferences/eu-fi-javascript)
+* [Best React conferences in Finland 2023 / 2024](https://github.com/best-tech-conferences/eu-fi-react)
+* [Best TypeScript conferences in Finland 2023 / 2024](https://github.com/best-tech-conferences/eu-fi-typescript)
+* [Best Vue conferences in Finland 2023 / 2024](https://github.com/best-tech-conferences/eu-fi-vue)
+* [Best Java conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-java)
+* [Best Kotlin conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-kotlin)
+* [Best Scala conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-scala)
+* [Best tech conferences in Portugal 2023 / 2024](https://github.com/best-tech-conferences/eu-pt)
+* [Best developer conferences in Portugal 2023 / 2024](https://github.com/best-tech-conferences/eu-pt-fullstack)
+* [Best Software architecture conferences in Portugal 2023 / 2024](https://github.com/best-tech-conferences/eu-pt-architecture)
+* [Best Tech conferences in Portugal 2023 / 2024](https://github.com/best-tech-conferences/eu-pt-tech)
+* [Best IT conferences in Portugal 2023 / 2024](https://github.com/best-tech-conferences/eu-pt-it)
+* [Best Fintech conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-fintech)
+* [Best Fintech conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl-fintech)
+* [Best Testing / QA conferences in Romania 2023 / 2024](https://github.com/best-tech-conferences/eu-ro-qa)
+* [Best Testing / QA conferences in Estonia 2023 / 2024](https://github.com/best-tech-conferences/eu-ee-qa)
+* [Best DevOps conferences in France 2023 / 2024](https://github.com/best-tech-conferences/eu-fr-devops)
+* [Best Cloud conferences in France 2023 / 2024](https://github.com/best-tech-conferences/eu-fr-cloud)
+* [Best Docker / Kubernetes conferences in France 2023 / 2024](https://github.com/best-tech-conferences/eu-fr-kubernetes)
+* [Best Cybersecurity / InfoSec conferences in Spain 2023 / 2024](https://github.com/best-tech-conferences/eu-es-security)
+* [Best Ruby conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-ruby)
+* [Best Ruby conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-ruby)
+* [Best Wordpress conferences in Greece 2023 / 2024](https://github.com/best-tech-conferences/eu-gr-wordpress)
+* [Best PHP conferences in Greece 2023 / 2024](https://github.com/best-tech-conferences/eu-gr-php)
+* [Best Drupal conferences in Greece 2023 / 2024](https://github.com/best-tech-conferences/eu-gr-drupal)
+* [Best Laravel conferences in Greece 2023 / 2024](https://github.com/best-tech-conferences/eu-gr-laravel)
+* [Best Python conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-python)
+* [Best tech conferences in Colombia 2023 / 2024](https://github.com/best-tech-conferences/am-co)
+* [Best Python conferences in Colombia 2023 / 2024](https://github.com/best-tech-conferences/am-co-python)
+* [Best Tech conferences in Colombia 2023 / 2024](https://github.com/best-tech-conferences/am-co-tech)
+* [Best IT conferences in Colombia 2023 / 2024](https://github.com/best-tech-conferences/am-co-it)
+* [Best Ruby conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-ruby)
+* [Best DevOps conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-devops)
+* [Best Cloud conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-cloud)
+* [Best Docker / Kubernetes conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-kubernetes)
+* [Best Game dev conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-game)
+* [Best Game dev conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-game)
+* [Best Testing / QA conferences in Belgium 2023 / 2024](https://github.com/best-tech-conferences/eu-be-qa)
+* [Best PHP conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-php)
+* [Best Drupal conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-drupal)
+* [Best Laravel conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-laravel)
+* [Best Wordpress conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-wordpress)
+* [Best Agile conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl-agile)
+* [Best Scrum conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl-scrum)
+* [Best .NET conferences in Denmark 2023 / 2024](https://github.com/best-tech-conferences/eu-dk-dotnet)
+* [Best Cloud conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-cloud)
+* [Best DevOps conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-devops)
+* [Best Docker / Kubernetes conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-kubernetes)
+* [Best AR / VR / XR conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-vr)
+* [Best AR / VR / XR conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-vr)
+* [Best Docker / Kubernetes conferences in Italy 2023 / 2024](https://github.com/best-tech-conferences/eu-it-kubernetes)
+* [Best DevOps conferences in Italy 2023 / 2024](https://github.com/best-tech-conferences/eu-it-devops)
+* [Best Cloud conferences in Italy 2023 / 2024](https://github.com/best-tech-conferences/eu-it-cloud)
+* [Best JavaScript conferences in Norway 2023 / 2024](https://github.com/best-tech-conferences/eu-no-javascript)
+* [Best Web / Frontend conferences in Norway 2023 / 2024](https://github.com/best-tech-conferences/eu-no-web)
+* [Best React conferences in Norway 2023 / 2024](https://github.com/best-tech-conferences/eu-no-react)
+* [Best TypeScript conferences in Norway 2023 / 2024](https://github.com/best-tech-conferences/eu-no-typescript)
+* [Best Vue conferences in Norway 2023 / 2024](https://github.com/best-tech-conferences/eu-no-vue)
+* [Best Ruby conferences in Italy 2023 / 2024](https://github.com/best-tech-conferences/eu-it-ruby)
+* [Best Data / Database conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-data)
+* [Best AI / ML conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-ai)
+* [Best Blockchain conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-blockchain)
+* [Best Blockchain conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-blockchain)
+* [Best Fintech conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-fintech)
+* [Best Linux / OS conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-linux)
+* [Best Linux / OS conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-linux)
+* [Best JavaScript conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-javascript)
+* [Best Web / Frontend conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-web)
+* [Best React conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-react)
+* [Best TypeScript conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-typescript)
+* [Best Vue conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-vue)
+* [Best Java conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl-java)
+* [Best Kotlin conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl-kotlin)
+* [Best Scala conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl-scala)
+* [Best tech conferences in Switzerland 2023 / 2024](https://github.com/best-tech-conferences/eu-ch)
+* [Best Testing / QA conferences in Switzerland 2023 / 2024](https://github.com/best-tech-conferences/eu-ch-qa)
+* [Best Tech conferences in Switzerland 2023 / 2024](https://github.com/best-tech-conferences/eu-ch-tech)
+* [Best IT conferences in Switzerland 2023 / 2024](https://github.com/best-tech-conferences/eu-ch-it)
+* [Best tech conferences in Luxembourg 2023 / 2024](https://github.com/best-tech-conferences/eu-lu)
+* [Best developer conferences in Luxembourg 2023 / 2024](https://github.com/best-tech-conferences/eu-lu-fullstack)
+* [Best Software architecture conferences in Luxembourg 2023 / 2024](https://github.com/best-tech-conferences/eu-lu-architecture)
+* [Best Tech conferences in Luxembourg 2023 / 2024](https://github.com/best-tech-conferences/eu-lu-tech)
+* [Best IT conferences in Luxembourg 2023 / 2024](https://github.com/best-tech-conferences/eu-lu-it)
+* [Best Testing / QA conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-qa)
+* [Best Testing / QA conferences in India 2023 / 2024](https://github.com/best-tech-conferences/as-in-qa)
+* [Best Laravel conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-laravel)
+* [Best PHP conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-php)
+* [Best Drupal conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-drupal)
+* [Best Data / Database conferences in Switzerland 2023 / 2024](https://github.com/best-tech-conferences/eu-ch-data)
+* [Best AI / ML conferences in Switzerland 2023 / 2024](https://github.com/best-tech-conferences/eu-ch-ai)
+* [Best DevOps conferences in Switzerland 2023 / 2024](https://github.com/best-tech-conferences/eu-ch-devops)
+* [Best Cloud conferences in Switzerland 2023 / 2024](https://github.com/best-tech-conferences/eu-ch-cloud)
+* [Best Docker / Kubernetes conferences in Switzerland 2023 / 2024](https://github.com/best-tech-conferences/eu-ch-kubernetes)
+* [Best Golang conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-golang)
+* [Best Golang conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-golang)
+* [Best Software architecture conferences in Russia 2023 / 2024](https://github.com/best-tech-conferences/eu-ru-architecture)
+* [Best developer conferences in Russia 2023 / 2024](https://github.com/best-tech-conferences/eu-ru-fullstack)
+* [Best Tech leadership conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-leadership)
+* [Best Tech leadership conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-leadership)
+* [Best JavaScript conferences in Israel 2023 / 2024](https://github.com/best-tech-conferences/as-il-javascript)
+* [Best Web / Frontend conferences in Israel 2023 / 2024](https://github.com/best-tech-conferences/as-il-web)
+* [Best React conferences in Israel 2023 / 2024](https://github.com/best-tech-conferences/as-il-react)
+* [Best TypeScript conferences in Israel 2023 / 2024](https://github.com/best-tech-conferences/as-il-typescript)
+* [Best Vue conferences in Israel 2023 / 2024](https://github.com/best-tech-conferences/as-il-vue)
+* [Best HR / Hiring / Recruiting conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-recruit)
+* [Best HR / Hiring / Recruiting conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-recruit)
+* [Best Agile conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-agile)
+* [Best Scrum conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-scrum)
+* [Best C/C++ conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-cpp)
+* [Best Mobile conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-mobile)
+* [Best iOS / Swift conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-ios)
+* [Best Android conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-android)
+* [Best Mobile conferences in China 2023 / 2024](https://github.com/best-tech-conferences/as-cn-mobile)
+* [Best iOS / Swift conferences in China 2023 / 2024](https://github.com/best-tech-conferences/as-cn-ios)
+* [Best Android conferences in China 2023 / 2024](https://github.com/best-tech-conferences/as-cn-android)
+* [Best AR / VR / XR conferences in Japan 2023 / 2024](https://github.com/best-tech-conferences/as-jp-vr)
+* [Best Mobile conferences in Israel 2023 / 2024](https://github.com/best-tech-conferences/as-il-mobile)
+* [Best iOS / Swift conferences in Israel 2023 / 2024](https://github.com/best-tech-conferences/as-il-ios)
+* [Best Android conferences in Israel 2023 / 2024](https://github.com/best-tech-conferences/as-il-android)
+* [Best Python conferences in Poland 2023 / 2024](https://github.com/best-tech-conferences/eu-pl-python)
+* [Best Tech leadership conferences in Russia 2023 / 2024](https://github.com/best-tech-conferences/eu-ru-leadership)
+* [Best Ruby conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-ruby)
+* [Best Agile conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-agile)
+* [Best HR / Hiring / Recruiting conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-recruit)
+* [Best developer conferences in Spain 2023 / 2024](https://github.com/best-tech-conferences/eu-es-fullstack)
+* [Best Software architecture conferences in Spain 2023 / 2024](https://github.com/best-tech-conferences/eu-es-architecture)
+* [Best Data / Database conferences in Israel 2023 / 2024](https://github.com/best-tech-conferences/as-il-data)
+* [Best AI / ML conferences in Israel 2023 / 2024](https://github.com/best-tech-conferences/as-il-ai)
+* [Best tech conferences in Serbia 2023 / 2024](https://github.com/best-tech-conferences/eu-rs)
+* [Best Software architecture conferences in Serbia 2023 / 2024](https://github.com/best-tech-conferences/eu-rs-architecture)
+* [Best developer conferences in Serbia 2023 / 2024](https://github.com/best-tech-conferences/eu-rs-fullstack)
+* [Best Tech conferences in Serbia 2023 / 2024](https://github.com/best-tech-conferences/eu-rs-tech)
+* [Best IT conferences in Serbia 2023 / 2024](https://github.com/best-tech-conferences/eu-rs-it)
+* [Best Python conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-python)
+* [Best Python conferences in Israel 2023 / 2024](https://github.com/best-tech-conferences/as-il-python)
+* [Best Mobile conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-mobile)
+* [Best iOS / Swift conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-ios)
+* [Best Android conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-android)
+* [Best Data / Database conferences in Brazil 2023 / 2024](https://github.com/best-tech-conferences/am-br-data)
+* [Best AI / ML conferences in Brazil 2023 / 2024](https://github.com/best-tech-conferences/am-br-ai)
+* [Best Blockchain conferences in Portugal 2023 / 2024](https://github.com/best-tech-conferences/eu-pt-blockchain)
+* [Best Fintech conferences in Portugal 2023 / 2024](https://github.com/best-tech-conferences/eu-pt-fintech)
+* [Best Java conferences in Greece 2023 / 2024](https://github.com/best-tech-conferences/eu-gr-java)
+* [Best Kotlin conferences in Greece 2023 / 2024](https://github.com/best-tech-conferences/eu-gr-kotlin)
+* [Best Scala conferences in Greece 2023 / 2024](https://github.com/best-tech-conferences/eu-gr-scala)
+* [Best Cybersecurity / InfoSec conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-security)
+* [Best C/C++ conferences in Canada 2023 / 2024](https://github.com/best-tech-conferences/am-ca-cpp)
+* [Best Python conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-python)
+* [Best Python conferences in Czech Republic 2023 / 2024](https://github.com/best-tech-conferences/eu-cz-python)
+* [Best AR / VR / XR conferences in Oceania 2023 / 2024](https://github.com/best-tech-conferences/oc-vr)
+* [Best AR / VR / XR conferences in Australia 2023 / 2024](https://github.com/best-tech-conferences/oc-au-vr)
+* [Best Cybersecurity / InfoSec conferences in Mexico 2023 / 2024](https://github.com/best-tech-conferences/am-mx-security)
+* [Best Tech leadership conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-leadership)
+* [Best tech conferences in Dominican Republic 2023 / 2024](https://github.com/best-tech-conferences/am-do)
+* [Best Tech conferences in Dominican Republic 2023 / 2024](https://github.com/best-tech-conferences/am-do-tech)
+* [Best Tech leadership conferences in Dominican Republic 2023 / 2024](https://github.com/best-tech-conferences/am-do-leadership)
+* [Best IT conferences in Dominican Republic 2023 / 2024](https://github.com/best-tech-conferences/am-do-it)
+* [Best Java conferences in Dominican Republic 2023 / 2024](https://github.com/best-tech-conferences/am-do-java)
+* [Best Kotlin conferences in Dominican Republic 2023 / 2024](https://github.com/best-tech-conferences/am-do-kotlin)
+* [Best Scala conferences in Dominican Republic 2023 / 2024](https://github.com/best-tech-conferences/am-do-scala)
+* [Best Data / Database conferences in Portugal 2023 / 2024](https://github.com/best-tech-conferences/eu-pt-data)
+* [Best AI / ML conferences in Portugal 2023 / 2024](https://github.com/best-tech-conferences/eu-pt-ai)
+* [Best Python conferences in Russia 2023 / 2024](https://github.com/best-tech-conferences/eu-ru-python)
+* [Best tech conferences in Malaysia 2023 / 2024](https://github.com/best-tech-conferences/as-my)
+* [Best Tech conferences in Malaysia 2023 / 2024](https://github.com/best-tech-conferences/as-my-tech)
+* [Best IT conferences in Malaysia 2023 / 2024](https://github.com/best-tech-conferences/as-my-it)
+* [Best JavaScript conferences in Singapore 2023 / 2024](https://github.com/best-tech-conferences/as-sg-javascript)
+* [Best Web / Frontend conferences in Singapore 2023 / 2024](https://github.com/best-tech-conferences/as-sg-web)
+* [Best React conferences in Singapore 2023 / 2024](https://github.com/best-tech-conferences/as-sg-react)
+* [Best TypeScript conferences in Singapore 2023 / 2024](https://github.com/best-tech-conferences/as-sg-typescript)
+* [Best Vue conferences in Singapore 2023 / 2024](https://github.com/best-tech-conferences/as-sg-vue)
+* [Best developer conferences in Taiwan 2023 / 2024](https://github.com/best-tech-conferences/as-tw-fullstack)
+* [Best Software architecture conferences in Taiwan 2023 / 2024](https://github.com/best-tech-conferences/as-tw-architecture)
+* [Best Linux / OS conferences in Ireland 2023 / 2024](https://github.com/best-tech-conferences/eu-ie-linux)
+* [Best iOS / Swift conferences in Canada 2023 / 2024](https://github.com/best-tech-conferences/am-ca-ios)
+* [Best Mobile conferences in Canada 2023 / 2024](https://github.com/best-tech-conferences/am-ca-mobile)
+* [Best Android conferences in Canada 2023 / 2024](https://github.com/best-tech-conferences/am-ca-android)
+* [Best tech conferences in South Korea 2023 / 2024](https://github.com/best-tech-conferences/as-kr)
+* [Best Python conferences in South Korea 2023 / 2024](https://github.com/best-tech-conferences/as-kr-python)
+* [Best Tech conferences in South Korea 2023 / 2024](https://github.com/best-tech-conferences/as-kr-tech)
+* [Best IT conferences in South Korea 2023 / 2024](https://github.com/best-tech-conferences/as-kr-it)
+* [Best Cybersecurity / InfoSec conferences in Malaysia 2023 / 2024](https://github.com/best-tech-conferences/as-my-security)
+* [Best Python conferences in Switzerland 2023 / 2024](https://github.com/best-tech-conferences/eu-ch-python)
+* [Best Python conferences in Oceania 2023 / 2024](https://github.com/best-tech-conferences/oc-python)
+* [Best Python conferences in Australia 2023 / 2024](https://github.com/best-tech-conferences/oc-au-python)
+* [Best Game dev conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-game)
+* [Best Data / Database conferences in Oceania 2023 / 2024](https://github.com/best-tech-conferences/oc-data)
+* [Best AI / ML conferences in Oceania 2023 / 2024](https://github.com/best-tech-conferences/oc-ai)
+* [Best Data / Database conferences in Australia 2023 / 2024](https://github.com/best-tech-conferences/oc-au-data)
+* [Best AI / ML conferences in Australia 2023 / 2024](https://github.com/best-tech-conferences/oc-au-ai)
+* [Best Python conferences in Mexico 2023 / 2024](https://github.com/best-tech-conferences/am-mx-python)
+* [Best Product / UX conferences in Denmark 2023 / 2024](https://github.com/best-tech-conferences/eu-dk-product)
+* [Best Python conferences in Malaysia 2023 / 2024](https://github.com/best-tech-conferences/as-my-python)
+* [Best AR / VR / XR conferences in Singapore 2023 / 2024](https://github.com/best-tech-conferences/as-sg-vr)
+* [Best developer conferences in Croatia 2023 / 2024](https://github.com/best-tech-conferences/eu-hr-fullstack)
+* [Best Software architecture conferences in Croatia 2023 / 2024](https://github.com/best-tech-conferences/eu-hr-architecture)
+* [Best Python conferences in Taiwan 2023 / 2024](https://github.com/best-tech-conferences/as-tw-python)
+* [Best Mobile conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-mobile)
+* [Best iOS / Swift conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-ios)
+* [Best Android conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-android)
+* [Best tech conferences in Slovakia 2023 / 2024](https://github.com/best-tech-conferences/eu-sk)
+* [Best Testing / QA conferences in Slovakia 2023 / 2024](https://github.com/best-tech-conferences/eu-sk-qa)
+* [Best Tech conferences in Slovakia 2023 / 2024](https://github.com/best-tech-conferences/eu-sk-tech)
+* [Best IT conferences in Slovakia 2023 / 2024](https://github.com/best-tech-conferences/eu-sk-it)
+* [Best Elixir conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-elixir)
+* [Best Elixir conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-elixir)
+* [Best Software architecture conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-architecture)
+* [Best developer conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-fullstack)
+* [Best Java conferences in Norway 2023 / 2024](https://github.com/best-tech-conferences/eu-no-java)
+* [Best Kotlin conferences in Norway 2023 / 2024](https://github.com/best-tech-conferences/eu-no-kotlin)
+* [Best Scala conferences in Norway 2023 / 2024](https://github.com/best-tech-conferences/eu-no-scala)
+* [Best Rust conferences 2023 / 2024](https://github.com/best-tech-conferences/rust)
+* [Best Rust conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-rust)
+* [Best Blockchain conferences in Denmark 2023 / 2024](https://github.com/best-tech-conferences/eu-dk-blockchain)
+* [Best Fintech conferences in Denmark 2023 / 2024](https://github.com/best-tech-conferences/eu-dk-fintech)
+* [Best Python conferences in Portugal 2023 / 2024](https://github.com/best-tech-conferences/eu-pt-python)
+* [Best Linux / OS conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-linux)
+* [Best Linux / OS conferences in India 2023 / 2024](https://github.com/best-tech-conferences/as-in-linux)
+* [Best Blockchain conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-blockchain)
+* [Best Blockchain conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-blockchain)
+* [Best Rust conferences in Americas 2023 / 2024](https://github.com/best-tech-conferences/am-rust)
+* [Best Rust conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-rust)
+* [Best Product / UX conferences in Austria 2023 / 2024](https://github.com/best-tech-conferences/eu-at-product)
+* [Best Agile conferences in Austria 2023 / 2024](https://github.com/best-tech-conferences/eu-at-agile)
+* [Best Scrum conferences in Austria 2023 / 2024](https://github.com/best-tech-conferences/eu-at-scrum)
+* [Best DevOps conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-devops)
+* [Best Docker / Kubernetes conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-kubernetes)
+* [Best JavaScript conferences in Austria 2023 / 2024](https://github.com/best-tech-conferences/eu-at-javascript)
+* [Best Web / Frontend conferences in Austria 2023 / 2024](https://github.com/best-tech-conferences/eu-at-web)
+* [Best React conferences in Austria 2023 / 2024](https://github.com/best-tech-conferences/eu-at-react)
+* [Best TypeScript conferences in Austria 2023 / 2024](https://github.com/best-tech-conferences/eu-at-typescript)
+* [Best Vue conferences in Austria 2023 / 2024](https://github.com/best-tech-conferences/eu-at-vue)
+* [Best Python conferences in New Zealand 2023 / 2024](https://github.com/best-tech-conferences/oc-nz-python)
+* [Best Ruby conferences in Poland 2023 / 2024](https://github.com/best-tech-conferences/eu-pl-ruby)
+* [Best Cybersecurity / InfoSec conferences in Italy 2023 / 2024](https://github.com/best-tech-conferences/eu-it-security)
+* [Best Tech leadership conferences in Austria 2023 / 2024](https://github.com/best-tech-conferences/eu-at-leadership)
+* [Best Data / Database conferences in France 2023 / 2024](https://github.com/best-tech-conferences/eu-fr-data)
+* [Best AI / ML conferences in France 2023 / 2024](https://github.com/best-tech-conferences/eu-fr-ai)
+* [Best Linux / OS conferences in Spain 2023 / 2024](https://github.com/best-tech-conferences/eu-es-linux)
+* [Best HR / Hiring / Recruiting conferences in Turkey 2023 / 2024](https://github.com/best-tech-conferences/as-tr-recruit)
+* [Best Testing / QA conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-qa)
+* [Best Ruby conferences in Lithuania 2023 / 2024](https://github.com/best-tech-conferences/eu-lt-ruby)
+* [Best Hardware / IoT conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl-iot)
+* [Best Product / UX conferences in Croatia 2023 / 2024](https://github.com/best-tech-conferences/eu-hr-product)
+* [Best Agile conferences in Portugal 2023 / 2024](https://github.com/best-tech-conferences/eu-pt-agile)
+* [Best Scrum conferences in Portugal 2023 / 2024](https://github.com/best-tech-conferences/eu-pt-scrum)
+* [Best Golang conferences in Brazil 2023 / 2024](https://github.com/best-tech-conferences/am-br-golang)
+* [Best Python conferences in United Kingdom 2023 / 2024](https://github.com/best-tech-conferences/eu-gb-python)
+* [Best .NET conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-dotnet)
+* [Best Tech leadership conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-leadership)
+* [Best JavaScript conferences in Ireland 2023 / 2024](https://github.com/best-tech-conferences/eu-ie-javascript)
+* [Best Web / Frontend conferences in Ireland 2023 / 2024](https://github.com/best-tech-conferences/eu-ie-web)
+* [Best React conferences in Ireland 2023 / 2024](https://github.com/best-tech-conferences/eu-ie-react)
+* [Best TypeScript conferences in Ireland 2023 / 2024](https://github.com/best-tech-conferences/eu-ie-typescript)
+* [Best Vue conferences in Ireland 2023 / 2024](https://github.com/best-tech-conferences/eu-ie-vue)
+* [Best Ruby conferences in Romania 2023 / 2024](https://github.com/best-tech-conferences/eu-ro-ruby)
+* [Best Tech leadership conferences in Switzerland 2023 / 2024](https://github.com/best-tech-conferences/eu-ch-leadership)
+* [Best Web / Frontend conferences in France 2023 / 2024](https://github.com/best-tech-conferences/eu-fr-web)
+* [Best JavaScript conferences in France 2023 / 2024](https://github.com/best-tech-conferences/eu-fr-javascript)
+* [Best React conferences in France 2023 / 2024](https://github.com/best-tech-conferences/eu-fr-react)
+* [Best Vue conferences in France 2023 / 2024](https://github.com/best-tech-conferences/eu-fr-vue)
+* [Best TypeScript conferences in France 2023 / 2024](https://github.com/best-tech-conferences/eu-fr-typescript)
+* [Best React conferences in Spain 2023 / 2024](https://github.com/best-tech-conferences/eu-es-react)
+* [Best JavaScript conferences in Spain 2023 / 2024](https://github.com/best-tech-conferences/eu-es-javascript)
+* [Best Web / Frontend conferences in Spain 2023 / 2024](https://github.com/best-tech-conferences/eu-es-web)
+* [Best Vue conferences in Spain 2023 / 2024](https://github.com/best-tech-conferences/eu-es-vue)
+* [Best TypeScript conferences in Spain 2023 / 2024](https://github.com/best-tech-conferences/eu-es-typescript)
+* [Best Python conferences in India 2023 / 2024](https://github.com/best-tech-conferences/as-in-python)
+* [Best tech conferences in Bulgaria 2023 / 2024](https://github.com/best-tech-conferences/eu-bg)
+* [Best Tech conferences in Bulgaria 2023 / 2024](https://github.com/best-tech-conferences/eu-bg-tech)
+* [Best IT conferences in Bulgaria 2023 / 2024](https://github.com/best-tech-conferences/eu-bg-it)
+* [Best JavaScript conferences in Italy 2023 / 2024](https://github.com/best-tech-conferences/eu-it-javascript)
+* [Best Web / Frontend conferences in Italy 2023 / 2024](https://github.com/best-tech-conferences/eu-it-web)
+* [Best React conferences in Italy 2023 / 2024](https://github.com/best-tech-conferences/eu-it-react)
+* [Best TypeScript conferences in Italy 2023 / 2024](https://github.com/best-tech-conferences/eu-it-typescript)
+* [Best Vue conferences in Italy 2023 / 2024](https://github.com/best-tech-conferences/eu-it-vue)
+* [Best Testing / QA conferences in Bulgaria 2023 / 2024](https://github.com/best-tech-conferences/eu-bg-qa)
+* [Best Tech leadership conferences in Sweden 2023 / 2024](https://github.com/best-tech-conferences/eu-se-leadership)
+* [Best Ruby conferences in Netherlands 2023 / 2024](https://github.com/best-tech-conferences/eu-nl-ruby)
+* [Best Python conferences in Spain 2023 / 2024](https://github.com/best-tech-conferences/eu-es-python)
+* [Best Python conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-python)
+* [Best tech conferences in Thailand 2023 / 2024](https://github.com/best-tech-conferences/as-th)
+* [Best Ruby conferences in Thailand 2023 / 2024](https://github.com/best-tech-conferences/as-th-ruby)
+* [Best Tech conferences in Thailand 2023 / 2024](https://github.com/best-tech-conferences/as-th-tech)
+* [Best IT conferences in Thailand 2023 / 2024](https://github.com/best-tech-conferences/as-th-it)
+* [Best Data / Database conferences in Bulgaria 2023 / 2024](https://github.com/best-tech-conferences/eu-bg-data)
+* [Best AI / ML conferences in Bulgaria 2023 / 2024](https://github.com/best-tech-conferences/eu-bg-ai)
+* [Best Game dev conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-game)
+* [Best tech conferences in Georgia 2023 / 2024](https://github.com/best-tech-conferences/as-ge)
+* [Best Blockchain conferences in Georgia 2023 / 2024](https://github.com/best-tech-conferences/as-ge-blockchain)
+* [Best Fintech conferences in Georgia 2023 / 2024](https://github.com/best-tech-conferences/as-ge-fintech)
+* [Best Tech conferences in Georgia 2023 / 2024](https://github.com/best-tech-conferences/as-ge-tech)
+* [Best Game dev conferences in Georgia 2023 / 2024](https://github.com/best-tech-conferences/as-ge-game)
+* [Best IT conferences in Georgia 2023 / 2024](https://github.com/best-tech-conferences/as-ge-it)
+* [Best Data / Database conferences in Belgium 2023 / 2024](https://github.com/best-tech-conferences/eu-be-data)
+* [Best AI / ML conferences in Belgium 2023 / 2024](https://github.com/best-tech-conferences/eu-be-ai)
+* [Best Product / UX conferences in Italy 2023 / 2024](https://github.com/best-tech-conferences/eu-it-product)
+* [Best Cloud conferences in Singapore 2023 / 2024](https://github.com/best-tech-conferences/as-sg-cloud)
+* [Best DevOps conferences in Singapore 2023 / 2024](https://github.com/best-tech-conferences/as-sg-devops)
+* [Best Docker / Kubernetes conferences in Singapore 2023 / 2024](https://github.com/best-tech-conferences/as-sg-kubernetes)
+* [Best Data / Database conferences in Finland 2023 / 2024](https://github.com/best-tech-conferences/eu-fi-data)
+* [Best AI / ML conferences in Finland 2023 / 2024](https://github.com/best-tech-conferences/eu-fi-ai)
+* [Best Rust conferences in Europe 2023 / 2024](https://github.com/best-tech-conferences/eu-rust)
+* [Best Rust conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-rust)
+* [Best Rust conferences in Belgium 2023 / 2024](https://github.com/best-tech-conferences/eu-be-rust)
+* [Best Cybersecurity / InfoSec conferences in Austria 2023 / 2024](https://github.com/best-tech-conferences/eu-at-security)
+* [Best Testing / QA conferences in Dominican Republic 2023 / 2024](https://github.com/best-tech-conferences/am-do-qa)
+* [Best Elixir conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-elixir)
+* [Best Functional programming conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-fp)
+* [Best Tech leadership conferences in Asia 2023 / 2024](https://github.com/best-tech-conferences/as-leadership)
+* [Best Tech leadership conferences in Turkey 2023 / 2024](https://github.com/best-tech-conferences/as-tr-leadership)
+* [Best Game dev conferences in Singapore 2023 / 2024](https://github.com/best-tech-conferences/as-sg-game)
+* [Best Linux / OS conferences in United States 2023 / 2024](https://github.com/best-tech-conferences/am-us-linux)
+* [Best .NET conferences in Poland 2023 / 2024](https://github.com/best-tech-conferences/eu-pl-dotnet)
+* [Best Cybersecurity / InfoSec conferences in Croatia 2023 / 2024](https://github.com/best-tech-conferences/eu-hr-security)
+* [Best Python conferences in Japan 2023 / 2024](https://github.com/best-tech-conferences/as-jp-python)
+* [Best Python conferences in Brazil 2023 / 2024](https://github.com/best-tech-conferences/am-br-python)
+* [Best Blockchain conferences in Greece 2023 / 2024](https://github.com/best-tech-conferences/eu-gr-blockchain)
+* [Best Fintech conferences in Greece 2023 / 2024](https://github.com/best-tech-conferences/eu-gr-fintech)
+* [Best HR / Hiring / Recruiting conferences in Czech Republic 2023 / 2024](https://github.com/best-tech-conferences/eu-cz-recruit)
+* [Best Golang conferences in Ireland 2023 / 2024](https://github.com/best-tech-conferences/eu-ie-golang)
+* [Best DevOps conferences in Spain 2023 / 2024](https://github.com/best-tech-conferences/eu-es-devops)
+* [Best Cloud conferences in Spain 2023 / 2024](https://github.com/best-tech-conferences/eu-es-cloud)
+* [Best Docker / Kubernetes conferences in Spain 2023 / 2024](https://github.com/best-tech-conferences/eu-es-kubernetes)
+* [Best Tech leadership conferences in Germany 2023 / 2024](https://github.com/best-tech-conferences/eu-de-leadership)
+* [Best Golang conferences in Italy 2023 / 2024](https://github.com/best-tech-conferences/eu-it-golang)
+* [Best Java conferences in Israel 2023 / 2024](https://github.com/best-tech-conferences/as-il-java)
+* [Best Kotlin conferences in Israel 2023 / 2024](https://github.com/best-tech-conferences/as-il-kotlin)
+* [Best Scala conferences in Israel 2023 / 2024](https://github.com/best-tech-conferences/as-il-scala)
+* [Best Data / Database conferences in Lithuania 2023 / 2024](https://github.com/best-tech-conferences/eu-lt-data)
+* [Best AI / ML conferences in Lithuania 2023 / 2024](https://github.com/best-tech-conferences/eu-lt-ai)
+* [Best .NET conferences in Czech Republic 2023 / 2024](https://github.com/best-tech-conferences/eu-cz-dotnet)
+* [Best Product / UX conferences in Spain 2023 / 2024](https://github.com/best-tech-conferences/eu-es-product)
+* [Best Ruby conferences in Switzerland 2023 / 2024](https://github.com/best-tech-conferences/eu-ch-ruby)
+* [Best Product / UX conferences in Finland 2023 / 2024](https://github.com/best-tech-conferences/eu-fi-product)
+* [Best PHP conferences in Belgium 2023 / 2024](https://github.com/best-tech-conferences/eu-be-php)
+* [Best Drupal conferences in Belgium 2023 / 2024](https://github.com/best-tech-conferences/eu-be-drupal)
+* [Best Laravel conferences in Belgium 2023 / 2024](https://github.com/best-tech-conferences/eu-be-laravel)
+* [Best Wordpress conferences in Belgium 2023 / 2024](https://github.com/best-tech-conferences/eu-be-wordpress)
+* [Best Functional programming conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-fp)
+* [Best Scrum conferences in Online 2023 / 2024](https://github.com/best-tech-conferences/on-scrum)
+
+
+<p>Please contribute events via <a href="https://dev.events">dev.events</a>.</p><br/><p align="center"><a href="#"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p><p align="center"><a href="#"><img src="http://randojs.com/images/backToTopButton.png" alt="Back to top" height="29"/></a></p>
